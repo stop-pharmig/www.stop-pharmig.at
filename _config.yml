@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Liberale Männer"
-  avatar           : ""
+  avatar           : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format.sanitize,q_auto:good/v1506622690/liberale-maenner-oesterreich-logo-gross-jekyll-minimal-mistakes-web-tuerkis_r0ccic.svg"
   bio              : "Gleichberechtigung für Männer"
   location         : "Wien"
   email            :
