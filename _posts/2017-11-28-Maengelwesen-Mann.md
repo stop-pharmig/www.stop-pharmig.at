@@ -109,8 +109,9 @@ deine Mängelwesenstruktur zu akzeptieren.
 
 Bis zum Erlernen einer Akzeptanz als Mängelwesen bleibt dir dann nur die tatkräftige,
 "verantwortungsvolle"
-(finanzielle) Akzeptanz der Priorität der Mutter bei der Betreuung der Kinder.
-Das ist das eigentliche Ziel.
+(soll heißen finanzielle) Akzeptanz der Priorität der Mutter bei der Betreuung der Kinder.
+Das ist das eigentliche Ziel!
+
 Als Vater geht man zur Männerberatung aufgrund der Angst davor,
 die Kinder nicht mehr täglich zu sehen.
 Der Angst,
