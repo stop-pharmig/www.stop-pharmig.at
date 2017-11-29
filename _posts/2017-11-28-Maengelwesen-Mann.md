@@ -58,8 +58,8 @@ diese Dinge immer mehr ins Lot zu bringen.
 Der Preis dafür sei das Gender-Mainstreaming.
 
 Der Mann müsse sich von seiner klassischen männlichen Rolle befreien,
-*seine weiblichen Anteile entdecken* und vor allem *der Frau entgegenkommen bei der Bezahlung*.
-Man müsse sowohl gegen *überkommene und national-konservative Vorstellungen von Familie* als auch gegen die *vermeintliche Zuständigkeit von Frauen für Kindererziehung* sein.
+**seine weiblichen Anteile entdecken** und vor allem **der Frau entgegenkommen bei der Bezahlung**.
+Man müsse sowohl gegen **überkommene und national-konservative Vorstellungen von Familie** als auch gegen die **vermeintliche Zuständigkeit von Frauen für Kindererziehung** sein.
 Nur so überwinde man das patriarchale Ökonomiesystem,
 das ja immer noch die Frau ausbeute.
 Nur dadurch sei zu erklären,
@@ -70,7 +70,7 @@ man könne nur sich selber ändern.
 Sie werde sich dann entspannen und zwangsläufig bereit erklären,
 die Kinder öfters herzugeben.
 Daher wäre ein gerichtlicher Weg sowieso der falsche.
-Der "Entpatriarchisierungsprozess" begann…
+Der **Entpatriarchisierungsprozess** begann…
 Immer wieder sträubte sich mein Innerstes dagegen.
 Irgendetwas schien faul an der Sache.
 Ich sah die Kinder ein bisschen weniger und sofort wurde mir unterstellt,
@@ -95,7 +95,7 @@ Ich erzählte meinem Therapeuten davon.
 Wenig später,
 ob aufgrund dieses Vorfalles oder weil sich kein Fortschritt in meiner psychischen Verfassung ergab,
 wurde so etwas wie die dicke Bertha der Umerziehung ausgepackt:
-das *Mängelwesen*. 
+das **Mängelwesen**. 
 Der Begriff des „Mängelwesens“ wurde durch Arnold Gehlen bekannt,
 den Cousin von Reinhard Gehlen,
 dem ersten Präsidenten des BND.
