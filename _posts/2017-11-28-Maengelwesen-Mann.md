@@ -25,7 +25,7 @@ Aber gehen wir chronologisch vor.
 
 Vor ein paar Jahren wollte meine damalige Partnerin mitsamt unserer Kinder ausziehen.
 Der Familienrichter hatte mir schon erklärt, 
-dass mir das neue Gesetz (KindNamRÄG) nicht nutzen wird.
+dass mir das neue [KindNamRÄG](https://www.parlament.gv.at/PAKT/VHG/XXIV/I/I_02004/index.shtml) nicht nutzen wird.
 Ich verfiel in eine Depression.
 Ich dachte bis dahin wirklich,
 dass die Kindesmutter ohne Deckung durch das Gesetz gehandelt hatte und mir die nun mögliche und in den Medien kolportierte gemeinsame Obsorge auch Mitbestimmung beim Wohnort ermöglichen würde.
