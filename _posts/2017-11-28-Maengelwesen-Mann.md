@@ -1,35 +1,6 @@
 ---
 
-author:
-  name             : "Walter Cassar"
-  avatar           : ""
-  bio              : ""
-  location         : "Wien"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+author: Walter Cassar 
 title: Mängelwesen Mann
 subtitle: Warum ich mich nicht von Erich Lehner beraten lassen möchte
 permalink: lehner.html
