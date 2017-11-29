@@ -104,8 +104,8 @@ Die Männerberatungen des „Dachverbandes Männerarbeit Österreich“ haben da
 Du sollst dich als Mängelwesen fühlen,
 alle Schuld bei dir selber suchen und keine Forderungen stellen.
 Du sollst dich unterjochen lassen und dabei meinen,
-Deine Beschwerden kämen von Deiner Unfähigkeit,
-Deine Mängelwesenstruktur zu akzeptieren.
+deine Beschwerden kämen von deiner Unfähigkeit,
+deine Mängelwesenstruktur zu akzeptieren.
 
 Bis zum Erlernen einer Akzeptanz als Mängelwesen bleibt dir dann nur die tatkräftige,
 "verantwortungsvolle"
@@ -115,8 +115,8 @@ Als Vater geht man zur Männerberatung aufgrund der Angst davor,
 die Kinder nicht mehr täglich zu sehen.
 Der Angst,
 die Kinder nur noch einmal pro Woche zu sehen.
-der Angst,
-die Kinder nur noch alle 2 Wochen zu sehen
+Der Angst,
+die Kinder nur noch alle 2 Wochen zu sehen.
 Und der Angst,
 die eigenen Kinder gar nicht mehr zu sehen.
 Aber für Erich Lehner sind Männer Mängelwesen.
