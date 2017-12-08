@@ -19,4 +19,4 @@ Kontakt:
 </style> 
 <iframe title="Feedback Form" class="freshwidget-embedded-form" id="freshwidget-embedded-form" src="https://liberalemaenner.freshdesk.com/widgets/feedback_widget/new?&widgetType=embedded&formTitle=Kontakt&submitTitle=Abschicken&submitThanks=Vielen+Dank+f%C3%BCr+Ihre+Kontaktaufnahme&screenshot=no&attachFile=no&searchArea=no&captcha=yes" scrolling="no" height="500px" width="100%" frameborder="0" >
 </iframe>
-#{% endraw %}
+{% endraw %}
