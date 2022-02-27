@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "de"
-title                    : "Liberale Männer"
+title                    : "Ontore"
 title_separator          : " "
-name                     : "Liberale Männer"
-description              : "Gleichberechtigung - auch für Männer"
-url                      : "http://de.liberalemaenner.at"
+name                     : "Ontore"
+description              : "IT Projects in Europe"
+url                      : "http://de.ontore.eu"
 baseurl                  : "/"
 logo                     : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format.sanitize,q_auto:good/v1506622690/liberale-maenner-oesterreich-logo-gross-jekyll-minimal-mistakes-web-tuerkis_r0ccic.svg"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liberale Männer"
+  name             : "Ontore"
   avatar           : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format,q_auto:best/v1505761249/liberale-maenner-%C3%B6sterreich-logo-klein-web_upqfdh.svg"
-  bio              : "Gleichberechtigung für Männer"
-  location         : "Wien"
+  bio              : "IT Projects in Europe"
+  location         : "Europe"
   email            :
   uri              :
   bitbucket        :
