@@ -13,7 +13,7 @@ name                     : "Ontore"
 description              : "IT Projects in Europe"
 url                      : "http://de.ontore.eu"
 baseurl                  : "/"
-logo                     : "https://res.cloudinary.com/ontore/image/upload/c_scale,h_45/v1646083785/2022-02-28-Ontore-Logo_r9xwrp.png"
+logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646083785/2022-02-28-Ontore-Logo_r9xwrp.png"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format.sanitize,q_auto:best/v1505761249/liberale-maenner-%C3%B6sterreich-logo-klein-web_upqfdh.svg"
 breadcrumbs              : true
