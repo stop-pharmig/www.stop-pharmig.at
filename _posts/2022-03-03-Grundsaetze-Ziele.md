@@ -1,4 +1,5 @@
 ---
+permalink: /Buergerrechtsbewegung/
 title: Österreichische Bürgerrechtsbewegung
 subtitle: Grundsätze und Ziele
 author: https://t.me/OliverHoffmann
