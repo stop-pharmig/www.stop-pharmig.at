@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ontore"
-  avatar           : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format,q_auto:best/v1505761249/liberale-maenner-%C3%B6sterreich-logo-klein-web_upqfdh.svg"
-  bio              : "IT Projects in Europe"
-  location         : "Europe"
+  name             : "demokratie.at"
+  avatar           : ""
+  bio              : "Demokratie in Österreich"
+  location         : "Österreich"
   email            :
   uri              :
   bitbucket        :
