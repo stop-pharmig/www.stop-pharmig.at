@@ -12,7 +12,7 @@ linkcolor: red
 pagenumbering: location=
 ---
 
-Wir sind die Österreichische Bürgerrechstbewegung.
+Wir sind die Österreichische Bürgerrechtsbewegung.
 
 # Grundsätze und Ziele
 
