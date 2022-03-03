@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "de"
-title                    : "demokratie.at"
+title                    : "Demokratie in Österreich"
 title_separator          : " "
-name                     : "Ontore"
-description              : "IT Projekte in Europa"
+name                     : "Demokratie in Österreich"
+description              : "Demokratie in Österreich"
 url                      : "https://demokratie.github.io/de.ontore.eu"
 baseurl                  : "/"
 logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646127445/2022-03-01-Ontore-logo-full_x06kjw.png"
