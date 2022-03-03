@@ -13,7 +13,7 @@ name                     : "Demokratie in Österreich"
 description              : "Demokratie in Österreich"
 url                      : "https://demokratie.github.io"
 baseurl                  : "/"
-logo                     : "https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format,h_50/v1646305033/2022-03-03-demokratie-logo_hdtauh.png"
+logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646302508/2022-03-03-demokratie.at-logo_oh4eqe.png"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : ""
 breadcrumbs              : true
