@@ -15,7 +15,7 @@ url                      : "https://demokratie.github.io"
 baseurl                  : "/"
 logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646127445/2022-03-01-Ontore-logo-full_x06kjw.png"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format.sanitize,q_auto:best/v1505761249/liberale-maenner-%C3%B6sterreich-logo-klein-web_upqfdh.svg"
+teaser                   : "https://res.cloudinary.com/ontore/image/upload/fl_any_format.sanitize/v1646305158/2022-03-03-demokratielogo_gyww4m.svg"
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
