@@ -1,4 +1,5 @@
 ---
+draft: true
 permalink: ueber.html
 title: Über Oliver Hoffmann
 ---
