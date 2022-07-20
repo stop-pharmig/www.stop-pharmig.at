@@ -13,7 +13,8 @@ name                     : "Demokratie in Österreich"
 description              : "Demokratie in Österreich"
 url                      : "https://www.demokratie.at"
 baseurl                  : "/"
-logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646302508/2022-03-03-demokratie.at-logo_oh4eqe.png"
+#logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646302508/2022-03-03-demokratie.at-logo_oh4eqe.png"
+logo                     : https://res.cloudinary.com/ontore/image/upload/f_auto,fl_any_format,q_auto/v1658300883/2022-07-20-Oliver-Hoffmann-scaled_wofrlf.png
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : ""
 breadcrumbs              : true
