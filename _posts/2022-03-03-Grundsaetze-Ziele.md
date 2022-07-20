@@ -2,7 +2,7 @@
 permalink: /Buergerrechtsbewegung/
 title: Österreichische Bürgerrechtsbewegung
 subtitle: Grundsätze und Ziele
-author: https://t.me/OliverHoffmann
+author: Oliver Hoffmann
 keywords: Österreich, Bürgerrechte, Menschenrechte
 pdfa: true
 papersize: a4
@@ -12,11 +12,9 @@ linkcolor: red
 pagenumbering: location=
 ---
 
-Wir sind die Österreichische Bürgerrechtsbewegung.
-
-# Grundsätze und Ziele
-
-Der Zweck dieses Dokuments ist die gemeinsame Arbeit an der Formulierung von Grundsätzen und Zielen der Österreichischen Bürgerrechstbewegung. Zur Mitarbeit sind im ersten Schritt alle Mitglieder von Kanal/Gruppe <https://t.me/OliverHoffmann> eingeladen, in weiterer Folge soll der Kreis der Mitarbeiter erweitert werden.
+Die folgenden Grundsätze und Ziele wurden im März 2022 in einem Telegram-Kanal und einer Telegram-Gruppe formuliert.
+Die Ziele wurden teilweise erreicht, teilweise sind die Ziele über Telegram nicht erreichbar, daher wurden Telegram-Kanal und Telegram-Gruppe stillgelegt.
+Aber die Inhalte sind weiter gültig...
 
 ### Grundsätze
 
