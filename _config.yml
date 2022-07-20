@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "de"
-title                    : "Demokratie in Österreich"
+title                    : "Oliver Hoffmann"
 title_separator          : " "
-name                     : "Demokratie in Österreich"
+name                     : "Oliver Hoffmann"
 description              : "Demokratie in Österreich"
 url                      : "https://www.demokratie.at"
 baseurl                  : "/"
