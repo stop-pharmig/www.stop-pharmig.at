@@ -10,7 +10,7 @@ linkcolor: red
 pagenumbering: location=
 ---
 
-Meine Stellungnahme zum "Impfpflichtgesetz" vor der Behandlung im Österreichischen Parlament.
+Meine Stellungnahme zum "Impfpflichtgesetz" vor der Behandlung im Österreichischen Parlament, siehe [Stellungnahme auf der Parlaments-Seite](https://www.parlament.gv.at/PAKT/VHG/XXVII/SN/SN_116666/index.shtml).
 
 ### Informationen zur stellungnehmenden Person
 
