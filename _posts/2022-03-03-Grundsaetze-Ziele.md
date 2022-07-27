@@ -13,7 +13,7 @@ pagenumbering: location=
 ---
 
 Die folgenden Grundsätze und Ziele wurden im März 2022 in einem Telegram-Kanal und einer Telegram-Gruppe formuliert.
-Die Ziele wurden teilweise erreicht, teilweise sind die Ziele über Telegram nicht erreichbar, daher wurden Telegram-Kanal und Telegram-Gruppe stillgelegt.
+Die Ziele wurden teilweise erreicht (["Impfpflicht" wurde abgeschafft](https://www.parlament.gv.at/PAKT/PR/JAHR_2022/PK0843/index.shtml), Helga Tieben übernahm [nicht die Leitung der Medizinmarktaufsicht](https://www.stop-pharmig.at)), teilweise sind die Ziele über Telegram nicht erreichbar, daher wurden Telegram-Kanal und Telegram-Gruppe stillgelegt.
 Aber die Inhalte sind weiter gültig...
 
 ### Grundsätze
