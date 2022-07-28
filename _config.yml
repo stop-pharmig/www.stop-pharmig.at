@@ -17,10 +17,10 @@ baseurl                  : "/"
 logo                     : https://res.cloudinary.com/ontore/image/upload/f_auto,fl_any_format,q_auto/v1658300883/2022-07-20-Oliver-Hoffmann-scaled_wofrlf.png
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : ""
-breadcrumbs              : true
+breadcrumbs              : false
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
+  provider               : ""
   disqus:
     shortname            : # liberalemaenner
   discourse:
