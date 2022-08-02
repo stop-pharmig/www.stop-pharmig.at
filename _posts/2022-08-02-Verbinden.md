@@ -7,6 +7,7 @@ permalink: verbinden.html
 [![Rumble](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1659443855/2022-08-02-rumble_xqg5fb.svg){:width="10%"}](https://rumble.com/c/c-1782087)
 [![TikTok](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1659445595/2022-08-02-tiktok_r3lopb.svg){:width="10%"}](https://www.tiktok.com/@oliverhoffmann2022)
 [![Gettr](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1659429404/2022-08-02-gettr_vnnbda.svg){:width="10%"}](https://gettr.com/user/hoffmann_2022)
+[![Substack](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1659446064/2022-08-02-substack_byq1ji.svg){:width="10%"}](https://hoffmann2022.substack.com)
 [![Telegram](https://res.cloudinary.com/ontore/image/upload/fl_any_format.sanitize/v1659426347/2022-08-02-Telegram_ibefav.svg){:width="10%"}](https://t.me/hoffmann2022)
 [![Twitter](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1659444153/2022-08-02-twitter_h4uewe.svg){:width="10%"}](https://twitter.com/hoffmann_2022)
 [![Facebook](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1659444466/2022-08-02-facebook_dfnu8g.svg){:width="10%"}](https://www.facebook.com/oliverhoffmann2022)
