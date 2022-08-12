@@ -22,7 +22,7 @@ permalink: verbinden.html
 
 [![Facebook](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1659444466/2022-08-02-facebook_dfnu8g.svg){:width="10%"} Facebook](https://www.facebook.com/oliverhoffmann2022)
 
-[![YouTube](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1660281857/2022-08-12-Youtube_u2d8wt.svg){:width="10%"} YouTube](https://www.youtube.com/c/OliverHoffmannAustria)
+[![YouTube](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1660282210/2022-08-12-Youtube.minimal_rns2dj.svg){:width="10%"} YouTube](https://www.youtube.com/c/OliverHoffmannAustria)
 
 
 
