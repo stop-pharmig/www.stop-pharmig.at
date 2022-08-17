@@ -11,9 +11,9 @@ linkcolor: red
 pagenumbering: location=
 ---
 
-Für Fragen und Anliegen zur Kandidatur von Diplomingenieur Oliver Hoffmann gibt es am 17. August einen Infoabend über Videokonferenz.
+Für Fragen und Anliegen zur Kandidatur von Diplomingenieur Oliver Hoffmann gibt es am 24. August einen Infoabend über Videokonferenz.
 
-Datum: 17. August 2022
+Datum: 24. August 2022
 Zeit: ab 19 Uhr
 Ort: [Zoom](https://us05web.zoom.us/j/2363986464?pwd=UFdjUFRYMzljc3ZjNWkzZkg2RXIyQT09)
 
