@@ -17,3 +17,6 @@ Im August 2022 kann man über diese Adresse ganz einfach einen Online-Termin mit
 [SimplyMeet Diplomingenieur Oliver Hoffmann](https://app.simplymeet.me/oliver-hoffmann/kandidatur)  
 
 [![SimplyMeet](https://res.cloudinary.com/ontore/image/upload/fl_any_format.sanitize/v1660731478/2022-08-17-SimplyMeet_pzmlva.svg){:width="50%"}](https://app.simplymeet.me/oliver-hoffmann/kandidatur)
+
+Zusätzlich gibt es auch die Möglichkeit,
+[am allgemeinen Infoabend teilzunehmen](/Infoabend)
