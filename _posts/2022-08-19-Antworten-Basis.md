@@ -46,9 +46,9 @@ einen offenen Dialog zwischen Bundesregierung, Volk und Parlament sicherzustelle
 Unsere Republik kann nur dann als Republik gut funktionieren,
 wenn alles, was von öffentlichem Interesse ist,
 auch offen diskutiert wird,
-und zwar bevor politischen Entscheidungen getroffen werden.
+und zwar bevor politische Entscheidungen getroffen werden.
 In diesem Sinn sind manche meiner etwas pointiert formulierten Antworten weniger als Vorgabe an eine zukünftige Bundesregierung zu verstehen und mehr als Diskussionsbeitrag zur Einleitung eines freien und öffentlichen Diskussionsprozesses.
-Wenn meine politische Positionierung bei gewissen Themen Grundlage konkreter Handlungen als Bundespräsident sein wird,
+Wenn meine persönliche politische Positionierung bei gewissen Themen Grundlage konkreter Handlungen als Bundespräsident sein wird,
 weise ich in meinen Antworten explizit darauf hin.
 
 ## A) Allgemeine Fragen und Staatsrecht
