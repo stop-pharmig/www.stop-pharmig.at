@@ -1,5 +1,4 @@
 ---
-permalink: /basis2022/
 title: Antworten an die Basis
 subtitle: 
 author: Oliver Hoffmann
