@@ -57,7 +57,7 @@ weise ich in meinen Antworten explizit darauf hin.
 
 >a.	Was denken Sie, was die Mehrheit des Staatsvolks von einem Bundespräsidenten erwartet?
 
-Die Menschen in Österreich haben zu Recht das Vertrauen in die Parteienpolitik verloren und erwarten sich vom nächsten Bundespräsidenten die Sicherstellung einer verlässlichen und gerechten Regierungspolitik, mit der die Menschen von staatlicher Willkür befreit werden und mit konkreten, spürbaren Verbesserungen gut durch die aktuelle Krise kommen. 
+Die Menschen in Österreich haben zu Recht das Vertrauen in die Parteienpolitik und den mit der Parteienpolitik verbundenen Aktionsimus der Bundesregierung verloren und erwarten sich vom nächsten Bundespräsidenten die Sicherstellung einer verlässlichen und gerechten Regierungspolitik, mit der die Menschen von staatlicher Willkür befreit werden und mit konkreten, spürbaren Verbesserungen gut durch die aktuelle Krise kommen. 
 
 >b.	Wie kommen Sie darauf?
 
