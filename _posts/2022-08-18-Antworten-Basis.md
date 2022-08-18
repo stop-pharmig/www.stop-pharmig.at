@@ -190,6 +190,13 @@ Die Entwicklung der letzten Monate zeigt: Die von der Bundesregierung beschäfti
 
 >b.	Falls wir unseren CO2-Ausstoß nicht einschränken, was glauben Sie, wären die schwerwiegendsten Folgen für Österreich?
 
+* Drastische Senkung der Energiekosten
+* Drastische Erhöhung der Konkurrenzfähigkeit der Österreichischen Wirtschaft
+* Aufblühen der Österreichischen Wirtschaft
+* Steigerung des Lebensstandards für alle Österreicher
+* Erhöhung der Krisensicherheit
+* Stärkung von Österreichs Rolle in Europa und in der Welt
+
 >c.	Glauben Sie, dass sich die Erde derzeit (die letzten 30 Jahre) insgesamt erwärmt?
 
 >d.	Welche Maßnahmen empfinden Sie als die wichtigsten, um CO2 einzuschränken?
