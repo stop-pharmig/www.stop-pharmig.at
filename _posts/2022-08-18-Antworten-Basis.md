@@ -12,7 +12,24 @@ linkcolor: red
 pagenumbering: location=
 ---
 
+Der Vorstand der [Österreichischen Partei die Basis](https://www.diebasis-partei.at/)
 [![Die Basis](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1660797698/2022-08-18-Basis_zbsxb8.svg){:width="10%"}](https://www.diebasis-partei.at/)
+hat mir am 17. August 2022 folgende email geschrieben:
+
+>Sehr geehrter Herr Hoffmann,
+>
+>um unseren Mitgliedern, Sympathisanten und den mit uns verbundenen interessierten politischen Gruppen eine Entscheidungshilfe für die Präsidentschaftswahl mitzugeben, haben wir einen Fragbogen für alle Kandidaten erstellt.
+>
+>Wir bitten sie, möglichst viele der Fragen zu beantworten und uns ihre geschätzten Antworten auf diese Emailadresse zurückzusenden.
+>
+>Die Antworten gehen an alle unsere Mitglieder und Sympathisanten und verschiedene politische Gruppen (Kleinparteien, Vereine, Bürgerinitiativen u.ä.). Sie sollen eine wichtige Entscheidungshilfe für unsere Kontakte dafür sein, wen sie am ehesten für unterstützenswert halten.
+>
+>Wir wünschen ihnen auf jedenfall viel Erfolg beim Sammeln der Unterstützungserklärungen - und dass sie es auf den Stimmzettel schaffen.
+>
+>In diesem Sinne alles Gute und liebe Grüße
+>herzlichst
+>
+>Maria Huber, Verena König, Ruth Tscherne
 
 # Abstimmung mit den Füßen
 
