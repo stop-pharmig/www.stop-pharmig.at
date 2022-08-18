@@ -35,19 +35,47 @@ Im Folgenden meine Antworten (noch unvollständig, work in progress):
 
 # Fragen an die Bundespräsidentschaftskandidaten
 
+Ich beantworte gerne Fragen zu meinem allgemeinem Weltbild, meinen Annahmen zu objektiven Fakten oder optimalen politischen Maßnahmen.
+Für die Beurteilung meiner Kandidatur ist aber wichtig,
+klar zwischen meinen persönlichen Meinungen und meinem Programm für die Bundespräsidentschaft zu unterscheiden:
+Ich werde als Bundespräsident nur ganz klar vor der Wahl definierte Ziele mit ganz klar vor der Wahl definierten Methoden umsetzen.
+Bei allem, was über die klar als Ziele meiner Präsidentschaft definierten Ziele hinausgeht,
+werde ich mich vielleicht behutsam in die Diskussion einbringen,
+meine Hauptaufgabe als Präsident wird aber darin bestehen,
+einen offenen Dialog zwischen Bundesregierung, Volk und Parlament sicherzustellen.
+Unsere Republik kann nur dann als Republik gut funktionieren,
+wenn alles, was von öffentlichem Interesse ist,
+auch offen diskutiert wird,
+und zwar bevor politischen Entscheidungen getroffen werden.
+In diesem Sinn sind manche meiner etwas pointiert formulierten Antworten weniger als Vorgabe an eine zukünftige Bundesregierung zu verstehen und mehr als Diskussionsbeitrag zur Einleitung eines freien und öffentlichen Diskussionsprozesses.
+Wenn meine politische Positionierung bei gewissen Themen Grundlage konkreter Handlungen als Bundespräsident sein wird,
+weise ich in meinen Antworten explizit darauf hin.
+
 ## A) Allgemeine Fragen und Staatsrecht
 
 ### 1.	Erwartungen und Ziele
 
 >a.	Was denken Sie, was die Mehrheit des Staatsvolks von einem Bundespräsidenten erwartet?
 
+Die Menschen in Österreich haben zu Recht das Vertrauen in die Parteienpolitik verloren und erwarten sich vom nächsten Bundespräsidenten die Sicherstellung einer verlässlichen und gerechten Regierungspolitik, mit der die Menschen von staatlicher Willkür befreit werden und mit konkreten, spürbaren Verbesserungen gut durch die aktuelle Krise kommen. 
+
 >b.	Wie kommen Sie darauf?
+
+Ich spreche viel mit sehr unterschiedlichen Menschen, sowohl über Internet als auch im direkten persönlichen Kontakt.
+Jede Woche wird die Anzahl der Menschen kleiner, die sich noch immer dazu überwinden kann, der staatlichen Obrigkeit zu glauben.
+Jede Woche wird die Anzahl der Menschen größer, die niemand aus dem derzeitigen Medien- und Politik-Establishment an der Macht sehen wollen.
 
 >c.	Was würden Sie Ihren Enkelkindern gerne sagen, was Sie für Österreich getan haben?
 
+Österreich und die Menschen in Österreich gestärkt aus der Krise herausgeholt.
+
 >d.	Wo sehen Sie Österreich in 6 Jahren nach Ihrer Präsidentschaft?
 
+Ein blühendes Land mit einer stark wachsenden Wirtschaft und glücklichen Menschen, die Mut bekommen haben, ihre eigenen Entscheidungen zu treffen und an den Herausforderungen zu wachsen.
+
 ### 2.	Bürgernähe: Wie und in welchem Umfang werden Sie als BP für den Bürger persönlich erreichbar sein?
+
+
 
 ### 3.	Informiertheit: Haben Sie das Bundesverfassungsgesetz zur Gänze gelesen?
 
@@ -61,7 +89,11 @@ Im Folgenden meine Antworten (noch unvollständig, work in progress):
 
 >a.	Sind Sie für die demokratische Selbstbestimmung Österreichs?
 
+Ja.
+
 >b.	Wie wollen Sie die Demokratie in Österreich stärken?
+
+
 
 >c.	Wie stehen Sie zur direkten Demokratie am Beispiel Schweiz?
 
