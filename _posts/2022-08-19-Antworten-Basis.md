@@ -223,9 +223,12 @@ was das Wort "Klimawandel" überhaupt bedeuten kann und bedeutet.
 In den vor allem von internationalen Organisationen und Medien betriebenen Kampagnen wird das Wort "Klimawandel" meistens oberflächlich bedeutungsident mit dem verwendet, was vor 20 Jahren in ähnlichen Kampagnen "globale Erwärmung" genannt wurde.
 Aber während "globale Erwärmung" zwar auch ein sehr allgemeiner Begriff ist,
 der sehr unterschiedlich interpretiert werden kann,
-ist "Klimawandel" mittlerweile fast vollständig bedeutungsentleert.
+kann man bei "globaler Erwärmung" zumindest grundsätzlich annehmen,
+dass es ohne tatsächlich nachweisbare Erhöhung der Temperatur keine "globale Erwärmung" geben kann,
+während "Klimawandel" irgendwie alles heissen könnte.
 Wird das Klima wärmer? Überall? Oder nur an manchen Orten der Erde?
 Oder wird das Klima an manchen Orten wärmer und an anderen Orten kälter?
+Ist es auch "Klimawandel", wenn es überall kälter wird?
 Hat "Klimawandel" vielleicht überhaupt nichts mit Erwärmung zu tun und bezieht sich auf ganz andere Veränderungen wie Erhöhung der Luftfeuchtigkeit oder Veränderung der Luftströmungen?
 Ist das überhaupt noch ein klar und deutlich definierter wissenschaftlicher Begriff, der Grundlage einer an Fakten orientierten Diskussion sein kann?
 Wenn ja, was gehört sicher nicht zu "Klimawandel"?
