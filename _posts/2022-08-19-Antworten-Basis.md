@@ -218,7 +218,23 @@ Die Entwicklung der letzten Monate zeigt: Die von der Bundesregierung beschäfti
 
 ### 21.	Klimawandel
 
+Bevor man eine Art "Glaubensbekenntnis" zum "Klimawandel" abgibt, sollte man klarstellen,
+was das Wort "Klimawandel" überhaupt bedeuten kann und bedeutet.
+In den vor allem von internationalen Organisationen und Medien betriebenen Kampagnen wird das Wort "Klimawandel" meistens oberflächlich bedeutungsident mit dem verwendet, was vor 20 Jahren in ähnlichen Kampagnen "globale Erwärmung" genannt wurde.
+Aber während "globale Erwärmung" zwar auch ein sehr allgemeiner Begriff ist,
+der sehr unterschiedlich interpretiert werden kann,
+ist "Klimawandel" mittlerweile fast vollständig bedeutungsentleert.
+Wird das Klima wärmer? Überall? Oder nur an manchen Orten der Erde?
+Oder wird das Klima an manchen Orten wärmer und an anderen Orten kälter?
+Hat "Klimawandel" vielleicht überhaupt nichts mit Erwärmung zu tun und bezieht sich auf ganz andere Veränderungen wie Erhöhung der Luftfeuchtigkeit oder Veränderung der Luftströmungen?
+Ist das überhaupt noch ein klar und deutlich definierter wissenschaftlicher Begriff, der Grundlage einer an Fakten orientierten Diskussion sein kann?
+Wenn ja, was gehört sicher nicht zu "Klimawandel"?
+Und vor allem: Welche Art von Wetter würde eine eindeutige Widerlegung einer Theorie zu "Klimawandel" darstellen?
+
 >a.	Glauben Sie, dass das von der Menschheit ausgestoßene CO2 für den Klimawandel verantwortlich ist?
+
+Weil nicht ganz klar ist, was "Klimawandel" genau ist und womit man feststellen oder widerlegen könnte,
+ob eines der zahlreichen Computermodelle zu diversen möglichen Veränderungen des Klimas in diversen Regionen der Welt korrekt und inkorrekt ist, ist die Behauptung einer potentiellen Kausalbeziehung als Erklärung für eine nicht eindeutig feststellbare Wirkung weitgehend willkürlich und fern von jeglicher objektiver Überprüfbarkeit. Insofern ist das Wort "Glaube" in dieser Frage richtig gewählt, weil es nicht um "Wissen" geht, sondern um "Glauben". Ich persönlich "glaube", dass die Erde ein lebendes, dyanmisches System darstellt, welches sich seit Entstehung der Erde ständig "wandelt" und wir als Teil der Erde "wandeln" uns ebenfalls seit Entstehung der Menschheit ständig. Wir haben als Teil der Erde natürlich auch einen Einfluss auf unsere Umgebung, einen viel größeren Einfluss hat aber die ebenfalls sich ständig "wandelnde" Sonne und die sich ständig "wandelnde" Beziehung zwischen Sonne und Erde. Mein persönlicher "Glaube" ist auch, dass die derzeit beobachtbaren "Wandlungen" der unterschiedlichen Europäischen Klimazonen vorwiegend von Veränderungen der Strömungsmuster in der Atmosphäre verursacht werden, welche mit der derzeit beschleunigt auftretenden Destabilisierung der magnetischen Pole zusammenhängen.
 
 >b.	Falls wir unseren CO2-Ausstoß nicht einschränken, was glauben Sie, wären die schwerwiegendsten Folgen für Österreich?
 
@@ -230,6 +246,20 @@ Die Entwicklung der letzten Monate zeigt: Die von der Bundesregierung beschäfti
 * Stärkung von Österreichs Rolle in Europa und in der Welt
 
 >c.	Glauben Sie, dass sich die Erde derzeit (die letzten 30 Jahre) insgesamt erwärmt?
+
+Was beduetet: "Die Erde erwärmt sich"?
+Welche Temperatur hat die Erde genau jetzt?
+Die Erde ist eine Kugel, deren Inneres nach allgemeiner Auffassung bedeutend wärmer ist als ihre Oberfläche.
+Welche Temperatur ist also als Temperatur "der Erde" gemeint?
+Die Temperatur des Erdmittelpunkts?
+Die durchschnittliche Temperatur aller Teile der Erde?
+Wie wollen wir das messen?
+Ist die durchschnittliche Temperatur der Erdoberfläche gemeint?
+Wie können wir die Temperatur genügend vieler Punkte auf der Erdoberfläche genügend oft messen, um die tatsächliche Durchschnittstemperatur der gesamten Erdoberfläche laufend zu beobachten?
+Ich lebe in Wien und kann daher relativ gut beurteilen, wie sich die Temperaturen in Wien über die letzten 30 Jahre entwickelt haben.
+Das ist daher in diesem Fall kein "Glaube", sondern "Wissen".
+Ich weiss, dass die durchschnittlichen Temperaturen in Wien vor 20 Jahren gestiegen sind,
+aber die letzten 10 Jahre wieder sinken.
 
 >d.	Welche Maßnahmen empfinden Sie als die wichtigsten, um CO2 einzuschränken?
 
