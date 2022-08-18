@@ -92,7 +92,26 @@ gefördert werden?
 
 ### 8.	Corona – Impfpflicht
 
+Ich habe vor der Behandlung der "Impfpflicht" im Österreichischen Nationalrat eine
+[33 Seiten lange Stellungnahme](/Stellungnahme-zu-COVID-19-IG)
+eingereicht und ausführlich nachgewiesen,
+dass die offiziellen "Begründungen" für die "Impfpflicht" schwachsinnig sind,
+die "Impfpflicht" keinerlei positive Auswirkung auf die Beendigung der Pandemie haben wird
+und ein Beschluss des "Impfpflicht"-Gesetzes ein schwerwiegendes Versagen des Nationalrats in seiner Funktion als Volksvertretung darstellen würde. 
+
 >a.	Wären Sie dafür gewesen, dass das Impfpflichtgesetz bleibt?
+
+Nein.
+
+Siehe auch meine [Stellungnahme zum Antrag zur Aufhebung des Gesetzes auf der Website des Nationalrats](https://www.parlament.gv.at/PAKT/VHG/XXVII/SN/SN_116666/index.shtml):
+
+Es ist hoch an der Zeit, dass dieses Gesetz restlos abgeschafft wird. Aber eigentlich hätte es nie beschlossen werden dürfen. Der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz und der Klubobmann der Österreichischen "Volkspartei" im Nationalrat haben die Abschaffung der "Impfpflicht" am 23. Juni 2022 mit einer vorgeblichen "Änderung" der "epidemiologischen Rahmenbedingungen" begründet, siehe unter anderem
+
+[Presseaussendung des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz](https://www.ots.at/presseaussendung/OTS_20220623_OTS0170/abschaffung-der-impfpflicht-aufgerissene-graeben-zuschuetten)
+
+Diese Darstellung ist genauso falsch wie die ursprünglichen Begründungen für die Einführung einer "Impfpflicht". Dass das Auftreten der Omikron-Variante die Rahmenbedingungen der COVID-19-Epidemie fundamental verändert hat, war auch schon vor der Debatte des "COVID-19-Impfpflichtgesetzes" im Nationalrat vollkommen klar. Leider hat der Nationalrat diese Tatsache Anfang dieses Jahres genauso ignoriert wie die anderen Einwände hundertausender besorgter Staatsbürger, siehe auch meine ursprüngliche Stellungnahme zu diesem katastrophalem Gesetz vom 8. Jänner 2022 im Kontrast zur oben angeführten Presseaussendung im Anhang. Alles, womit jetzt als vorgeblich neue Erkenntnis die Aufhebung dieses Gesetzes begründet wird, war auch schon vor dem Beschluss des Gesetzes bekannt.
+
+Die Entwicklung der letzten Monate zeigt: Die von der Bundesregierung beschäftigten "Experten" haben Unrecht gehabt, das Volk hat Recht gehabt. Wenn das Parlament seine Glaubwürdigkeit wieder erlangen will, muss dieses Versagen des Nationalrats in seiner Rolle als Vertretung des Volkes umfassend aufgearbeitet werden.
 
 >b.	Würden Sie Verordnungen der Regierung, die möglicherweise im Widerspruch zur Verfassung stehen, sofort nach Erlass durch den Verfassungsgerichtshof überprüfen lassen?
 
