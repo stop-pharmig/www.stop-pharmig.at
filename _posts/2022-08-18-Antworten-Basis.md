@@ -1,0 +1,99 @@
+---
+permalink: /basis2022/
+title: Antworten an die Basis
+subtitle: 
+author: Oliver Hoffmann
+keywords: Österreich, 2022
+pdfa: true
+papersize: a4
+lang: de
+colorlinks: true
+linkcolor: red
+pagenumbering: location=
+---
+
+[![Die Basis](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1660797698/2022-08-18-Basis_zbsxb8.svg){:width="10%"}](https://www.diebasis-partei.at/)
+
+# Abstimmung mit den Füßen
+
+Von 9. bis 31. August 2022 gibt es in Österreich die Abstimmung mit Füßen:
+Soll der nächste Bundespräsident wieder ein Parteisoldat werden?
+Soll die staatliche Willkür weitergehen?
+Oder sollen die Parteien in die Schranken gewiesen werden und Österreich zum ersten Mal einen wirklich parteiunabhängigen Präsidenten bekommen?
+Wer nichts macht, stimmt dafür, dass alles so bleibt wie es ist.
+Wer etwas ändern will, unterschreibt eine Unterstützungserklärung für einen Alternativkandidaten.
+Auf [bundespraesidentschaftswahl.at](http://www.bundespraesidentschaftswahl.at) gibt es eine Liste aller Personen, die kandidieren wollen.
+Da sollte doch jemand dabei sein, den man unterstützen kann.
+Ich will auch kandidieren, siehe [mein Profil auf bundespraesidentschaftswahl.at](http://www.bundespraesidentschaftswahl.at/oliver-hoffmann.html).
+[Hier gibt es meinen politischen Lebenslauf](/ueber).
+Weiter unten sage ich ganz klar, was ich als Präsident machen werde. Ob ich wirklich kandidiere, entscheidet Ihr. In der Abstimmung mit den Füßen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mirwk6ZLoqE" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Unterstützungserklärung
+
+[![Formular Unterstützungserklärung](https://res.cloudinary.com/ontore/image/upload/fl_any_format.sanitize/v1660022994/2022-Unterstuetzungserklaerung-Oliver-HOFFMANN-einseitig-Seite001_guu7n0.svg)](https://u.pcloud.link/publink/show?code=XZgqUQVZyTvqiMTMWUhMQKcf0Jd5KQdXbcvy)
+
+1. [Formular für die Unterstützungserklärung](https://u.pcloud.link/publink/show?code=XZgqUQVZyTvqiMTMWUhMQKcf0Jd5KQdXbcvy) ausdrucken
+2. Formular am Gemeindeamt, an dem man gemeldet ist (in [Wien](https://www.wien.gv.at/politik/wahlen/bp/2022): ein beliebiges Magistratisches Bezirksamt) vor den Augen des Magistratsbeamten unterschreiben und beglaubigen lassen
+3. Beglaubigtes Formular mit der Post schicken an:  
+Oliver Hoffmann  
+Karolinengasse 31/20  
+1040 Wien
+
+# Spenden
+
+Ich bin wirklich parteiunabhängig und finanziere meine Kandidatur ausschließlich über Spenden,
+Spendenkonto AT631912000039601810,
+Spenden optimalerweise mit Buchungstext "Kandidatur" für eine saubere Endabrechnung.
+
+# Als Bundespräsident werde ich folgendes tun:
+
+## Parteienstaat zurückdrängen
+
+* Regierung entlassen
+* keine Vertreter von Parlamentsparteien in der Regierung angeloben
+* keine Gespräche mit Parteichefs hinter verschlossenen Türen abhalten
+
+## korrupte Medien in die Schranken weisen
+
+* keine Regierungsinserate in Medien zulassen
+* keine Vorabinformation für Medien zulassen
+* keine Medienkampagnen durch die Regierung zulassen
+
+## Regierung kontrollieren
+
+* breit abgestimmte und durchdachte Maßnahmen statt inhaltsleerer Überschriften sicherstellen
+* Verordnungsaktionismus beenden
+* öffentliche Live-Übertragung der Ministerräte sicherstellen
+* wöchentlich öffentliche Zielvorgaben mit der Regierung vereinbaren
+* wöchentlich öffentliche Berichterstattung der Regierung einfordern
+* proaktive den Schutz von Menschen- und Grundrechten sicherstellen
+
+## staatliche Willkür beenden
+
+* verläßliche Rechtsnormen statt staatlicher Gängelung sicherstellen
+* weniger, aber bessere Gesetze und Verordnungen initialisieren
+* gleiches Recht und gleiche Verantwortung für Alle sicherstellen
+* halbstaatliche Pseudoverwaltung abbauen
+
+## Dich entscheiden lassen
+
+* mehr Wahlfreiheit in allen Bereichen des Lebens sicherstellen
+* mehr Mitsprache in allen Phasen der politischen Entscheidungsfindung sicherstellen
+* mehr direkte Demokratie initialisieren
+
+## Dich entlasten
+
+* Abbau von Steuern und Abgaben initialisieren
+* Abbau staatlicher Bürokratie sicherstellen
+* mehr Freiraum für Selbstentfaltung bewirken
+
+Mehr zu meinem Angebot an Sie in [sozialen Medien](/verbinden),
+unter anderem auch in einem [Video von der Vorstellung in Hard in Vorarlberg](/Hard)
+und einer [Telegram Diskussion auf FREIHEITbewegt Austria](/FREIHEIT-bewegt).
+
+Wenn Sie mit mir persönlich über politische Vorstellungen oder Anliegen reden wollen oder Fragen zu meiner Kandidatur besprechen wollen,
+können Sie einen [Termin vereinbaren](/Terminvereinbarung)
+oder am [Infoabend](/Infoabend) teilnehmen.
+# Freiheit für Dich
