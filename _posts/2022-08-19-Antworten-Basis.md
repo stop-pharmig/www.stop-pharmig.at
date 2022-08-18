@@ -1,4 +1,5 @@
 ---
+permalink: /basis/
 title: Antworten an die Basis
 subtitle: 
 author: Oliver Hoffmann
