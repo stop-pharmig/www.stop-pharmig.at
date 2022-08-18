@@ -29,7 +29,7 @@ hat mir am 17. August 2022 folgende email geschrieben:
 >In diesem Sinne alles Gute und liebe Grüße
 >herzlichst
 >
->Maria Huber, Verena König, Ruth TscherneTvqiMTMWUhMQKcf0Jd5KQdXbcvy)
+>Maria Huber, Verena König, Ruth Tscherne
 
 Im Folgenden meine Antworten (noch unvollständig, work in progress):
 
