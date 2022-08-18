@@ -194,3 +194,5 @@ Die Entwicklung der letzten Monate zeigt: Die von der Bundesregierung beschäfti
 
 >d.	Welche Maßnahmen empfinden Sie als die wichtigsten, um CO2 einzuschränken?
 
+Verbot jeglicher Benutzung von Privatflugzeugen und von Superreichen benutzten Luxusflugzeugen im Österreichischen Luftraum sowie Einstellung des Flugbetriebs zwischen Österreich und Brüssel.
+
