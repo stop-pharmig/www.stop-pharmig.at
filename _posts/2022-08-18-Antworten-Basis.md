@@ -37,32 +37,56 @@ Fragen an die Bundespräsidentschaftskandidaten:
 
 ## A) Allgemeine Fragen und Staatsrecht
 
-### 1.	Erwartungen und Ziele:
-a.	Was denken Sie, was die Mehrheit des Staatsvolks von einem Bundespräsidenten erwartet?
-b.	Wie kommen Sie darauf?
-c.	Was würden Sie Ihren Enkelkindern gerne sagen, was Sie für Österreich getan haben?
-d.	Wo sehen Sie Österreich in 6 Jahren nach Ihrer Präsidentschaft?
+### 1.	Erwartungen und Ziele
+
+>a.	Was denken Sie, was die Mehrheit des Staatsvolks von einem Bundespräsidenten erwartet?
+
+>b.	Wie kommen Sie darauf?
+
+>c.	Was würden Sie Ihren Enkelkindern gerne sagen, was Sie für Österreich getan haben?
+
+>d.	Wo sehen Sie Österreich in 6 Jahren nach Ihrer Präsidentschaft?
+
 ### 2.	Bürgernähe: Wie und in welchem Umfang werden Sie als BP für den Bürger persönlich erreichbar sein?
+
 ### 3.	Informiertheit: Haben Sie das Bundesverfassungsgesetz zur Gänze gelesen?
-### 4.	Gewaltenteilung:
-a.	Laut BVG beauftragt der BP einen Menschen seines Vertrauens mit der Regierungsbildung. Wen würden Sie mit der Regierungsbildung beauftragen? 
-b.	Würden Sie einen Parteienvertreter mit der Regierungsbildung beauftragen, so wie es bisher gehandhabt wurde, und damit einen Bruch mit der Gewaltenteilung begehen?
-### 5.	Demokratie/Direkte Demokratie:
-a.	Sind Sie für die demokratische Selbstbestimmung Österreichs?
-b.	Wie wollen Sie die Demokratie in Österreich stärken?
-c.	Wie stehen Sie zur direkten Demokratie am Beispiel Schweiz?
-d.	Über welche Themen sollte es Ihrer Meinung nach Volksabstimmungen auch in Österreich geben?
-e.	Soll es bei Volksabstimmungen Beteiligungsquoten geben?
-f.	Wie viele Volksabstimmungen sollte es in Österreich Ihrer Meinung nach pro Jahr idealerweise geben?
-### 6.	Regierungs-Beliebtheit: 
-a.	Würden Sie eine Bundesregierung entlassen, weil sie lt. Umfragen weniger als 33% Zustimmung hat?
-b.	Werden Sie als neugewählter Bundespräsident das übliche Rücktrittsangebot der Bundesregierung annehmen?
-### 7.	Medien:
-a.	Werden Sie in „unabhängigen“ Medien inserieren?
-b.	Sind Medien Ihrer Meinung nach unabhängig, wenn sie aus öffentlicher Hand
+
+### 4.	Gewaltenteilung
+
+>a.	Laut BVG beauftragt der BP einen Menschen seines Vertrauens mit der Regierungsbildung. Wen würden Sie mit der Regierungsbildung beauftragen? 
+
+>b.	Würden Sie einen Parteienvertreter mit der Regierungsbildung beauftragen, so wie es bisher gehandhabt wurde, und damit einen Bruch mit der Gewaltenteilung begehen?
+
+### 5.	Demokratie/Direkte Demokratie
+
+>a.	Sind Sie für die demokratische Selbstbestimmung Österreichs?
+
+>b.	Wie wollen Sie die Demokratie in Österreich stärken?
+
+>c.	Wie stehen Sie zur direkten Demokratie am Beispiel Schweiz?
+
+>d.	Über welche Themen sollte es Ihrer Meinung nach Volksabstimmungen auch in Österreich geben?
+
+>e.	Soll es bei Volksabstimmungen Beteiligungsquoten geben?
+
+>f.	Wie viele Volksabstimmungen sollte es in Österreich Ihrer Meinung nach pro Jahr idealerweise geben?
+
+### 6.	Regierungs-Beliebtheit
+
+>a.	Würden Sie eine Bundesregierung entlassen, weil sie lt. Umfragen weniger als 33% Zustimmung hat?
+
+>b.	Werden Sie als neugewählter Bundespräsident das übliche Rücktrittsangebot der Bundesregierung annehmen?
+
+### 7.	Medien
+
+>a.	Werden Sie in „unabhängigen“ Medien inserieren?
+
+>b.	Sind Medien Ihrer Meinung nach unabhängig, wenn sie aus öffentlicher Hand
 gefördert werden?
-c.	Halten Sie den ORF für ein unabhängiges Medium?
-d.	Wer sind Ihrer Meinung nach die Kunden der Medien?
+
+>c.	Halten Sie den ORF für ein unabhängiges Medium?
+
+>d.	Wer sind Ihrer Meinung nach die Kunden der Medien?
 
 ## B) Spezielle Fragen betreffend Österreich
 
