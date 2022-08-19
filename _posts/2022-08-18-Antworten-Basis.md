@@ -227,11 +227,25 @@ Die Entwicklung der letzten Monate zeigt: Die von der Bundesregierung beschäfti
 
 >b.	Würden Sie Verordnungen der Regierung, die möglicherweise im Widerspruch zur Verfassung stehen, sofort nach Erlass durch den Verfassungsgerichtshof überprüfen lassen?
 
->c.	Wie weit sind Sie mit dem Fahrplan der Regierung zum Thema Corona bisher einverstanden? 
+Ich werde alle Gesetze und Verordnungen vor meiner eventuellen Unterschrift auf ihre Verträglichkeit mit der Österreichischen Verfassung und allen Grund- und Freiheitsrechten überprüfen. Wenn es schwerwiegende Bedenken gibt, dass ein Gesetz oder eine Verordnung gegen Verfassung, ein Grundrecht oder ein Freiheitsrecht verstoßen könnte, dann werde ich nicht auf ein Urteil des Verfassungsgerichtshofs warten, sondern meine Unterschrift so lange verweigern, bis die Bedenken ausgeräumt sind. Wenn Parlament und Bundesregierung wissen, dass ich proaktiv Verfassung, Grundrechte und Freiheitsrechte schützen, werden auch keine Gesetze oder Verordnungen auf meinem Schreibtisch landen, die sich in einer Grauzone befinden. Wir werden das dann im Vorfeld klären und damit wird weitgehend sichergestellt, dass Gesetze und Verordnungen bessere Qualität haben und man nicht erst auf den Verfassungsgerichtshof warten muss, um schlechte Gesetze und Verordnungen loszuwerden.
+
+>c.	Wie weit sind Sie mit dem Fahrplan der Regierung zum Thema Corona bisher einverstanden?
+
+Gar nicht. Die derzeitige Bundesregierung arbeitet schlecht und ihre Maßnahmen sind unlogisch, willkürlich und schädlich.
 
 >d.	Womit sind/waren Sie nicht einverstanden?
 
+Mit fast allem. Die Bundesregierung stellt ständig Behauptungen auf, die falsch oder schwachsinnig sind.
+Dann werden Maßnahmen getroffen, die auf diesen falschen oder schwachsinnigen Behauptungen aufbauen.
+Kurz darauf kommt auch die Bundesregierung regelmäßig drauf,
+dass sie wieder einen Fehler gemacht hat und nimmt alles zurück.
+Dieses Chaos muss aufhören.
+Wir brauchen Verpflichtung zur Wahrheit, Kompetenz und Verläßlichkeit.
+
 >e.	Wie oft sind sie gegen Corona-geimpft?
+
+Ich werde die staatliche Willkür und die Einmischung des Staates in das Privatleben der Menschen drastisch zurückfahren.
+Daher gehe ich mit gutem Beispiel voran und gebe keinerlei Auskunft zu meinem Privatleben.
 
 ### 9.	Teuerung / Bargeld
 
