@@ -349,21 +349,43 @@ Nein.
 
 >a.	Sind Sie der Meinung, dass die WHO Ihre Zuständigkeiten zu überschreiten versucht? Würden Sie sich in diesem Fall dafür einsetzen, aus der WHO auszutreten?
 
+Die WHO versucht, ihre Zuständigkeiten zu erweitern.
+Ich werde mich dafür einsetzen, dass die Zuständigkeiten der WHO nicht erweitert werden.
+Ein Austritt aus der WHO wäre für Österreich möglicherweise nur in Kombination mit einem Austritt aus der UNO umsetzbar.
+Ich werde mich dafür einsetzen,
+dass alle diese Fragen offen und öffentlich diskutiert werden.
+Wenn ein Austritt aus einer Internationalen Organisation stattfinden soll,
+sollte das auch über Volksabstimmung entschieden werden.
+
 >b.	Finden Sie es gut, dass die WHO zu 80% privat finanziert ist?
+
+Nein.
 
 ### 20.	Freihandelsabkommen
 
 >a.	Welche Freihandelsabkommen kennen Sie, die Österreich abgeschlossen hat?
 
+Viele. Manche sind aber in anderen aufgegangen, wie zum Bespiel die EFTA über den EWR de facto in der EU.
+
 >b.	Wie stehen Sie zu den derzeit aufrechten Freihandelsabkommen? Meinen Sie, dass die für Österreich gut sind?
+
+Wie weiter oben ausgeführt: Ich werde mich für Handlungsspielraum einsetzen. Auch bei Freihandelsabkommen sollte Österreich einen Plan B haben. Dann kann man vergleichen und hat auch eine bessere Verhandlungsposition.
 
 >c.	Sind Sie für den EU-Austritt Österreichs?
 
+Siehe oben: Zuerst muss klar sein, was danach kommt.
+
 >d.	Sind Sie für den Austritt Österreichs aus der WHO?
+
+Siehe oben: Nur nach öffentlicher Diskussion und Volksabstimmung.
 
 >e.	Sind Sie für den Austritt Österreichs aus CETA?
 
+Das wäre wohl de facto äquivalent mit einem Austritt aus der EU. Also wieder siehe oben: Zuerst Plan B klären, danach nur über Volksabstimmung.
+
 >f.	Sind Sie für den Austritt Österreichs aus der UNO?
+
+Ebenfalls siehe oben: Reden wir einmal, was stattdessen kommen soll und kann.
 
 ### 21.	Klimawandel
 
