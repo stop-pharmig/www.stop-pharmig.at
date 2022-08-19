@@ -91,11 +91,8 @@ der Bundesregierung, dem Parlament und den Landeshauptleuten transparent live ö
 Dort, wo ich als Bundespräsident nicht selbst direkt für Transparenz und Meinungsfreiheit sorgen kann,
 werde ich öffentlich darauf einwirken,
 dass die freie Meinungsbildung auch durch andere Einrichtungen wie Parlament gestärkt wird.
-Darüber hinaus werde ich auch Initiativen zum Ausbau der direkten Demokratie stärken,
-ebenfalls in Zusammenarbeit mit dem Parlament.
-Ich persönlich würde auch mehr direkte Demokratie unterstützen,
-aber das müsste das Parlament mit 2/3-Mehrheit unterstützen
-und ich verspreche nur das,
+Ich werde auch Initiativen zum Ausbau der direkten Demokratie stärken,
+aber substantielle Schritte in Richtung direkte Demokratie müsste das Parlament mit 2/3-Mehrheit unterstützen und ich verspreche nur das,
 was ich als Bundespräsident auch tatsächlich selbst sicherstellen kann.
 Auch die Neutralität beruht auf einem Gesetz,
 welches der Nationalrat ändern oder abschaffen könnte.
