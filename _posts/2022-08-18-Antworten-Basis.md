@@ -441,3 +441,6 @@ aber die letzten 10 Jahre wieder sinkt.
 * Verbot der Benutzung von Luxusflugzeugen durch Superreiche im Österreichischen Luftraum
 * Einstellung des Flugbetriebs zwischen Österreich und Brüssel.
 
+liebe Grüße
+
+Diplomingenieur Oliver Hoffmann
