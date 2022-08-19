@@ -77,11 +77,11 @@ Ein blühendes Land mit einer stark wachsenden Wirtschaft und glücklichen Mensc
 
 Ich werde die Hofburg wie auch bisher üblich an bestimmten Tagen für die Öffentlichkeit öffnen.
 Aber ich werde auch weit darüber hinausgehen,
-indem ich die Möglichkeiten des Internet proaktiv für einen dauerhaften ergebnisorientierten Dialog mit den Menschen in Öszerreich nütze.
+indem ich die Möglichkeiten des Internet proaktiv für einen dauerhaften und ergebnisorientierten Dialog mit den Menschen in Österreich nütze.
 Dazu werde ich unmittelbar nach meinem Amtsantritt ein von der Präsidentschaftskanzlei betriebenes Diskussionsforum einrichten,
 über das alle Österreicher miteinander und mit mir über alle Themen von öffentlicher Bedeutung Informationen und Meinungen austauschen können.
 In weiterer Folge werde ich auch der Bundesregierung den Auftrag geben,
-laufend, umfassend und proaktiv Informationen über Internet zu allen Maßnahmen der Bundesregierung zur Verfügung zu stellen,
+laufend,  über Internet umfassend und proaktiv Informationen zu allen Maßnahmen der Bundesregierung zur Verfügung zu stellen,
 und zwar jeweils immer bevor Entscheidungen gefällt werden oder Gesetzes- oder Verordnungsentwürfe verfasst werden.
 Ich werde sicherstellen, dass die gesamte Arbeit der Bundesregierung vollkommen transparent verrichtet wird und ich werde mich persönlich darum kümmern,
 dass die Anliegen der Menschen bei jeder einzelnen Initiative der Bundesregierung berücksichtigt werden.
@@ -129,6 +129,8 @@ Das kann und werde ich als Bundespräsident sicherstellen.
 Ich werde - wie weiter oben beim Thema Bürgernähe beschrieben -
 konsequent sicherstellen,
 dass die Menschen gut informiert an einer breit geführten Diskussion über alle politisch relevanten Themen teilhaben können.
+Darüber hinaus werden Ministerratssitzungen und alle wesentlichen politischen Verhandlungen zwischen mir,
+der Bundesregierung, dem Parlament und den Landeshauptleuten transparent live öffentlich im Internet übertragen.
 Dort, wo ich als Bundespräsident nicht selbst direkt für Transparenz und Meinungsfreiheit sorgen kann,
 werde ich öffentlich darauf einwirken,
 dass die freie Meinungsbildung auch durch andere Einrichtungen wie Parlament gestärkt wird.
