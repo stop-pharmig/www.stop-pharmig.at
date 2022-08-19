@@ -156,7 +156,7 @@ Bitte nützt die Gelegenheit und zeigt, dass Ihr diese Entscheidung nicht andere
 Bitte redet auch mit mir, jetzt wäre auch ein guter Zeitpunkt, zu sagen, welche Themen im Wahlkampf vertreten werden sollten.
 Weil Wahlkampf ist erst im September.
 
-Danke für das Interesse und alle Gute
+Danke für das Interesse und alles Gute
 
 liebe Grüße
 
