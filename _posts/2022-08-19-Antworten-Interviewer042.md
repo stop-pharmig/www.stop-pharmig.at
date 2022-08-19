@@ -41,7 +41,7 @@ Es haben mich schon diverse Medien mit diversen schmutzigen Untergriffen abzusch
 diverse Lobbies haben massiv gegen mich Stimmung gemacht und auch diverse innerparteiliche "Freunde" sind mir in den Rücken gefallen.
 Ich habe immer Ruhe bewahrt, sachlich argumentiert und mir nüchtern überlegt, welchen Nutzen ich für die Allgemeinheit mit welchem Engagement bringen kann.
 Natürlich auch in meinem Berufsleben.
-Als Bundespräsident werde ich die gesamten 6 Jahre Fels in der Brandung sein und mit Weitsicht und Mitgefühl,
+Als Bundespräsident werde ich die gesamten 6 Jahre meiner Amtszeit als Fels in der Brandung mit Weitsicht und Mitgefühl,
 aber auch mit der notwendigen Konsequenz,
 einen Weg in eine bessere Zukunft mitgestalten.
 
