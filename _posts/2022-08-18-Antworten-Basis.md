@@ -400,8 +400,8 @@ während "Klimawandel" irgendwie alles heissen könnte.
 Wird das Klima wärmer? Überall? Oder nur an manchen Orten der Erde?
 Oder wird das Klima an manchen Orten wärmer und an anderen Orten kälter?
 Ist es auch "Klimawandel", wenn es überall kälter wird?
-Hat "Klimawandel" vielleicht überhaupt nichts mit Erwärmung zu tun und bezieht sich auf ganz andere Veränderungen wie Erhöhung der Luftfeuchtigkeit oder Veränderung der Luftströmungen?
-Ist das überhaupt noch ein klar und deutlich definierter wissenschaftlicher Begriff, der Grundlage einer an Fakten orientierten Diskussion sein kann?
+Hat "Klimawandel" vielleicht überhaupt nichts mit Erwärmung oder Abkühlung zu tun und bezieht sich auf ganz andere Veränderungen wie Veränderung der Luftfeuchtigkeit oder Veränderung der Luftströmungen?
+Kann so ein schwurbeliger Begriff, der jede Art von "Wandel" oder "Veränderung" meinen könnte, überhaupt noch irgendwie zu einem klar und deutlich definiertem wissenschaftlichen Ausdruck werden, der Grundlage einer an der Realität orientierten Diskussion sein kann?
 Wenn ja, was gehört sicher nicht zu "Klimawandel"?
 Und vor allem: Welche Art von Wetter würde eine eindeutige Widerlegung einer Theorie zu "Klimawandel" darstellen?
 
