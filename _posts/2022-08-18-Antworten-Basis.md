@@ -329,7 +329,7 @@ Siehe weiter oben: Österreich sollte sich von USA, NATO und EU emanzipieren und
 
 >a.	Wie sehen Sie das Problem der mangelnden Gewaltenteilung in der EU?
 
-Die fehlende Gewaltenteilung ist weniger das Hauptproblem als die fehlende demokratische Kontrolle:
+Die fehlende Gewaltenteilung ist weniger das Hauptproblem mit der EU als die fehlende demokratische Kontrolle:
 Ein "Rat", der nicht vom Volk abgesetzt werden kann und der Mehrheitsentscheidungen gegen die Menschen trifft,
 führt früher oder später zu den bekannten Problemen jedes undemokratischen Imperiums.
 
