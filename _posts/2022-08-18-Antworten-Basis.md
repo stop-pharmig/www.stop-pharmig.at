@@ -259,11 +259,11 @@ sie ist Teil des Problems und macht alles noch schlimmer.
 
 Ich werde sicherstellen, dass die Menschen in Österreich frei entscheiden können, ob sie weiter Bargeld nutzen wollen.
 
-### 10.	GIS-Gebühr: Sind Sie für die Beibehaltung der GIS-Gebühr, so wie sie jetzt ist?
+### 10.	GIS-Gebühr: Sind Sie für die Beibehaltung der GIS-Gebühr, so wie sie jetzt ist? 
 
 Die GIS-Gebühr sollte freiwillig sein.
 
-### 11.	Bundesheer: 
+### 11.	Bundesheer 
 
 >a.	Würden Sie eine Verteidigungsministerin bzw. einen Verteidigungsminister angeloben, die/der nicht den Grundwehrdienst abgeleistet hat?
 
