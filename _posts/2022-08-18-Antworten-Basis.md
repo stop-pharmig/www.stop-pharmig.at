@@ -323,7 +323,7 @@ Ja.
 
 >d.	Soll sich Österreich an den EU-Sanktionen gegen Russland beteiligen?
 
-Siehe weiter oben: Österreich sollte sich von USA, NATO und EU emazipieren und eine unabhängige Politik als neutraler Staat verfolgen.
+Siehe weiter oben: Österreich sollte sich von USA, NATO und EU emanzipieren und eine unabhängige Politik als neutraler Staat verfolgen.
 
 ### 18.	EU
 
