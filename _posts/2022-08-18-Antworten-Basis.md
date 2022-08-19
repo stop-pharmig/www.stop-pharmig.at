@@ -182,7 +182,7 @@ Und wenn das übliche Rücktrittsangebot nicht erfolgen sollte, werde ich diese 
 Nein.
 Weder ich,
 noch die Präsidentschaftskanzlei,
-noch eines der Bundesministeien wird irgendwelche Inserate in irgendwelchen Medien bezahlen.
+noch eines der Bundesministerien wird irgendwelche Inserate in irgendwelchen Medien bezahlen.
 
 >b.	Sind Medien Ihrer Meinung nach unabhängig, wenn sie aus öffentlicher Hand
 gefördert werden?
