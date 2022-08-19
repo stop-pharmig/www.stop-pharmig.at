@@ -57,13 +57,13 @@ weise ich in meinen Antworten explizit darauf hin.
 
 >a.	Was denken Sie, was die Mehrheit des Staatsvolks von einem Bundespräsidenten erwartet?
 
-Die Menschen in Österreich haben zu Recht das Vertrauen in die Parteienpolitik und den mit der Parteienpolitik verbundenen Aktionsimus der Bundesregierung verloren und erwarten sich vom nächsten Bundespräsidenten die Sicherstellung einer verlässlichen und gerechten Regierungspolitik, mit der die Menschen von staatlicher Willkür befreit werden und mit konkreten, spürbaren Verbesserungen gut durch die aktuelle Krise kommen. 
+Die Menschen in Österreich haben zu Recht das Vertrauen in die Parteienpolitik und die von Parlamentsparteien kontrollierte Bundesregierung verloren und erwarten sich vom nächsten Bundespräsidenten die Sicherstellung einer verlässlichen und gerechten Regierungspolitik, mit der die Menschen von staatlicher Willkür befreit werden und mit konkreten, spürbaren Verbesserungen gut durch die aktuelle Krise kommen. 
 
 >b.	Wie kommen Sie darauf?
 
 Ich spreche viel mit sehr unterschiedlichen Menschen, sowohl über Internet als auch im direkten persönlichen Kontakt.
-Jede Woche wird die Anzahl der Menschen kleiner, die sich noch immer dazu überwinden kann, der staatlichen Obrigkeit zu glauben.
-Jede Woche wird die Anzahl der Menschen größer, die niemand aus dem derzeitigen Medien- und Politik-Establishment an der Macht sehen wollen.
+Jede Woche wird die Anzahl der Menschen kleiner, die sich noch eine Verbesserung von Nationalratswahlen oder von Parteien im allgemeinen erwarten.
+Jede Woche wird die Anzahl der Menschen größer, die jemand anderen als die typischen Vertreter des Medien- und Politik-Establishment an der Macht sehen wollen.
 
 >c.	Was würden Sie Ihren Enkelkindern gerne sagen, was Sie für Österreich getan haben?
 
@@ -71,19 +71,50 @@ Jede Woche wird die Anzahl der Menschen größer, die niemand aus dem derzeitige
 
 >d.	Wo sehen Sie Österreich in 6 Jahren nach Ihrer Präsidentschaft?
 
-Ein blühendes Land mit einer stark wachsenden Wirtschaft und glücklichen Menschen, die Mut bekommen haben, ihre eigenen Entscheidungen zu treffen und an den Herausforderungen zu wachsen.
+Ein blühendes Land mit einer stark wachsenden Wirtschaft und glücklichen Menschen, die Mut bekommen haben, ihre eigenen Entscheidungen zu treffen und mit den Herausforderungen zu wachsen.
 
 ### 2.	Bürgernähe: Wie und in welchem Umfang werden Sie als BP für den Bürger persönlich erreichbar sein?
 
-
+Ich werde die Hofburg wie auch bisher üblich an bestimmten Tagen für die Öffentlichkeit öffnen.
+Aber ich werde auch weit darüber hinausgehen,
+indem ich die Möglichkeiten des Internet proaktiv für einen dauerhaften ergebnisorientierten Dialog mit den Menschen in Öszerreich nütze.
+Dazu werde ich unmittelbar nach meinem Amtsantritt ein von der Präsidentschaftskanzlei betriebenes Diskussionsforum einrichten,
+über das alle Österreicher miteinander und mit mir über alle Themen von öffentlicher Bedeutung Informationen und Meinungen austauschen können.
+In weiterer Folge werde ich auch der Bundesregierung den Auftrag geben,
+laufend, umfassend und proaktiv Informationen über Internet zu allen Maßnahmen der Bundesregierung zur Verfügung zu stellen,
+und zwar jeweils immer bevor Entscheidungen gefällt werden oder Gesetzes- oder Verordnungsentwürfe verfasst werden.
+Ich werde sicherstellen, dass die gesamte Arbeit der Bundesregierung vollkommen transparent verrichtet wird und ich werde mich persönlich darum kümmern,
+dass die Anliegen der Menschen bei jeder einzelnen Initiative der Bundesregierung berücksichtigt werden.
 
 ### 3.	Informiertheit: Haben Sie das Bundesverfassungsgesetz zur Gänze gelesen?
 
+Ja.
+
 ### 4.	Gewaltenteilung
 
->a.	Laut BVG beauftragt der BP einen Menschen seines Vertrauens mit der Regierungsbildung. Wen würden Sie mit der Regierungsbildung beauftragen? 
+Die aus gutem Grund in der Verfassung definierte Gewaltenteilung wurde über die letzten Jahrzehnte durch die personelle Verfilzung zwischen Parlament, Bundesregierung und Medien korrumptiert.
+Der Mangel an gelebter Gewaltenteilung und die aufgrund fehlender Gewaltenteilung praktisch nicht vorhandene Qualitätskontrolle ist die Hauptursache für die unerträglich schlechte Arbeit der Österreichischen Bundesregierung.
+Ich werde als Bundespräsident sicherstellen,
+dass die Bundesregierung personell und finanziell von Parlament und Medien getrennt wird,
+damit die in der Verfassung vorgesehen Gewaltenteilung herstellen und eine dem Volk verpflichtete Arbeit der Bundesregierung sicherstellen.
+
+>a.	Laut BVG beauftragt der BP einen Menschen seines Vertrauens mit der Regierungsbildung. Wen würden Sie mit der Regierungsbildung beauftragen?
+
+Ich werde unmittelbar nach meiner Wahl eine Stellenanzeige für die Position des Bundeskanzlers veröffentlichen und die Zeit zwischen Wahl und Angelobung für Bewerbungsgespräche mit potentiellen Bundeskanzlern nützen.
+Einen Entwurf der geplanten Stellenanzeige wird es vor der Wahl auf
+https://www.demokratie.at
+geben.
+Die eigentlichen Bewerbungsgespräche werden öffentlich im Internet übertragen werden,
+damit öffentlich dokumentiert ist,
+was mein Auftrag an den oder die zukünftigen Bundeskanzler/in sein wird
+und welche Zusagen der oder die Kandidat/in gemacht hat.
+Der oder die nächste Bundeskanzler/in wird aber in keinem Fall Vertreter einer Parlamentspartei oder Staatsangestellter sein.
+Es wird jedenfalls jemand sein, der oder die gezeigt hat, dass er oder sie ergebnisorientiert arbeiten kann.
 
 >b.	Würden Sie einen Parteienvertreter mit der Regierungsbildung beauftragen, so wie es bisher gehandhabt wurde, und damit einen Bruch mit der Gewaltenteilung begehen?
+
+Ich werde sicher keine Parteienvertreter mit der Regierungsbildung beauftragen.
+Ich werde einen parteifreien Bundeskanzler angeloben, der mir dann - wie in der Verfassung vorgesehen - Minister vorschlägt. 
 
 ### 5.	Demokratie/Direkte Demokratie
 
@@ -93,32 +124,82 @@ Ja.
 
 >b.	Wie wollen Sie die Demokratie in Österreich stärken?
 
-
+Die wichtigste Grundlage der Demokratie ist der freie Zugang zu Informationen und die ungehinderte öffentliche Diskussion über alle Themen von öffentlichem Interesse.
+Das kann und werde ich als Bundespräsident sicherstellen.
+Ich werde - wie weiter oben beim Thema Bürgernähe beschrieben -
+konsequent sicherstellen,
+dass die Menschen gut informiert an einer breit geführten Diskussion über alle politisch relevanten Themen teilhaben können.
+Dort, wo ich als Bundespräsident nicht selbst direkt für Transparenz und Meinungsfreiheit sorgen kann,
+werde ich öffentlich darauf einwirken,
+dass die freie Meinungsbildung auch durch andere Einrichtungen wie Parlament gestärkt wird.
+Darüber hinaus werde ich auch Initiativen zum Ausbau der direkten Demokratie stärken,
+ebenfalls in Zusammenarbeit mit dem Parlament.
 
 >c.	Wie stehen Sie zur direkten Demokratie am Beispiel Schweiz?
 
+Die direkte Demokratie ist eigentlich die echte Demokratie.
+Wir haben in Österreich keine echte Demokratie,
+sondern eine Republik mit demokratischen Elementen.
+Ich persönlich würde mehr direkte Demokratie unterstützen,
+aber das müsste das Parlament mit 2/3-Mehrheit unterstützen
+und ich verspreche nur das,
+was ich als Bundespräsident auch tatsächlich selbst sicherstellen kann.
+
 >d.	Über welche Themen sollte es Ihrer Meinung nach Volksabstimmungen auch in Österreich geben?
+
+* Steuererhöhungen
+* Zwangsmitgliedschaften in Kammern und dergleichen
+* Zwangsgebühren wie ORF und dergleichen
 
 >e.	Soll es bei Volksabstimmungen Beteiligungsquoten geben?
 
+Nur, wenn das Ergebnis der Volksabstimmung bereits geltende Gesetze verändern würde.
+
 >f.	Wie viele Volksabstimmungen sollte es in Österreich Ihrer Meinung nach pro Jahr idealerweise geben?
+
+Das sollte idealerweise das Volk selbst bestimmen.
+Aber eine Abstimmung pro Quartal, also 4 pro Jahr, wäre wohl praktisch umsetzbar.
 
 ### 6.	Regierungs-Beliebtheit
 
 >a.	Würden Sie eine Bundesregierung entlassen, weil sie lt. Umfragen weniger als 33% Zustimmung hat?
 
+Nein.
+Umfragen können zu leicht manipuliert werden.
+Ich werde die Bundesregierung entlassen, wenn sie nicht gut arbeitet oder wenn Mitglieder der Bundesregierung in ihrer Funktion korrumpiert sind.
+
 >b.	Werden Sie als neugewählter Bundespräsident das übliche Rücktrittsangebot der Bundesregierung annehmen?
+
+Ja.
+Und wenn das übliche Rücktrittsangebot nicht erfolgen sollte, werde ich diese Bundesregierung innerhalb von 24 Stunden auch ohne Rücktrittsangebot entlassen.
 
 ### 7.	Medien
 
 >a.	Werden Sie in „unabhängigen“ Medien inserieren?
 
+Nein.
+Weder ich,
+noch die Präsidentschaftskanzlei,
+noch eines der Bundesministeien wird irgendwelche Inserate in irgendwelchen Medien bezahlen.
+
 >b.	Sind Medien Ihrer Meinung nach unabhängig, wenn sie aus öffentlicher Hand
 gefördert werden?
 
+Das kommt darauf an, auf welche Art die Förderung erfolgt.
+Wenn es eine gesetzlich garantierte Förderung gibt,
+die nicht von regierungsfreundlicher Berichterstattung abhängig gemacht werden kann,
+sind die entsprechenden Medien zwar noch immer finanziell abhängig,
+aber vielleicht in gewissem Maß inhaltlich unabhängig.
+
 >c.	Halten Sie den ORF für ein unabhängiges Medium?
 
+Nein.
+
 >d.	Wer sind Ihrer Meinung nach die Kunden der Medien?
+
+Die Kunden der Medien sollten die Leser sein.
+Das stimmt bei einigen wenigen Medien, vor allem bei preisgünstig produzierten Medien im Internet.
+Die Kunden der älteren, größeren und teureren Medien sind meistens de facto Lobbyisten und Regierung.
 
 ## B) Spezielle Fragen betreffend Österreich
 
