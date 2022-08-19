@@ -102,7 +102,7 @@ damit die in der Verfassung vorgesehen Gewaltenteilung herstellen und eine dem V
 
 Ich werde unmittelbar nach meiner Wahl eine Stellenanzeige für die Position des Bundeskanzlers veröffentlichen und die Zeit zwischen Wahl und Angelobung für Bewerbungsgespräche mit potentiellen Bundeskanzlern nützen.
 Einen Entwurf der geplanten Stellenanzeige wird es vor der Wahl auf
-https://www.demokratie.at
+[demokratie.at](https://www.demokratie.at)
 geben.
 Die eigentlichen Bewerbungsgespräche werden öffentlich im Internet übertragen werden,
 damit öffentlich dokumentiert ist,
