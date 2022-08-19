@@ -307,7 +307,7 @@ sondern in allen Bereichen des Lebens vergrößert wird.
 >a.	Wie konnte es aus Ihrer Sicht zu diesem Krieg kommen?
 
 Die Hauptursache ist die Spaltung innerhalb der Ukraine.
-Ein gespaltenes Land kann leicht von äusseren Feinden zerstört und/oder eufgeteilt werden.
+Ein gespaltenes Land kann leicht von äusseren Feinden zerstört und/oder aufgeteilt werden.
 Deswegen ist es wichtig, dass wir uns als Österreicher nicht spalten lassen.
 
 >b.	Welche Beteiligten tragen welche Schuld?
