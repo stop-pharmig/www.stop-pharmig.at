@@ -289,27 +289,61 @@ wenn jemand weiterhin davon ausgeht, dass es genau 2 Geschlechter gibt.
 
 ### 14.	Frühsexualisierung von Kindern: Wie stehen sie zu den Plänen der Gender-Lobby, bereits Kinder im Kindergartenalter und Volksschulalter von der Familie ungeschützt mit diesen Themen zu konfrontieren?
 
+Ich lehne das ab.
+
 ### 15.	Gendern: Werden Sie als BP gendern, oder sich an die deutsche Grammatik halten?
 
+Ich werde flexibel und auch humorvoll damit umgehen.
+
 ### 16.	Great Reset: Wie stehen Sie zu Smart City, Great Reset, Transhumanismus und Social Credits?
+
+Unabhängig davon, inwiefern man davon ausgeht, dass alle diese Themen direkt und untrennbar miteinander verbunden sind, stellt sich die Frage, welche Freiräume die Republik Österreich erhält oder schafft.
+Ich werde mich konsequent dafür einsetzen,
+dass die Wahlfreiheit der Menschen nicht nur erhalten,
+sondern in allen Bereichen des Lebens vergrößert wird.
 
 ### 17.	Ukraine-Konflikt
 
 >a.	Wie konnte es aus Ihrer Sicht zu diesem Krieg kommen?
 
->b.	Welche Beteiligten tragen welche Schuld?´
+Die Hauptursache ist die Spaltung innerhalb der Ukraine.
+Ein gespaltenes Land kann leicht von äusseren Feinden zerstört und/oder eufgeteilt werden.
+Deswegen ist es wichtig, dass wir uns als Österreicher nicht spalten lassen.
+
+>b.	Welche Beteiligten tragen welche Schuld?
+
+Alle größeren Mächte haben sich schuldig gemacht,
+von Russland über die USA, die UNO, EU, NATO, Türkei, China...
+Aber wie gesagt:
+Wenn die Ukrainer nicht mitgemacht hätten, wäre es nie so weit gekommen.
 
 >c.	Soll sich Österreich im Russland-Ukraine-Konflikt neutral verhalten?
 
+Ja.
+
 >d.	Soll sich Österreich an den EU-Sanktionen gegen Russland beteiligen?
+
+Siehe weiter oben: Österreich sollte sich von USA, NATO und EU emazipieren und eine unabhängige Politik als neutraler Staat verfolgen.
 
 ### 18.	EU
 
 >a.	Wie sehen Sie das Problem der mangelnden Gewaltenteilung in der EU?
 
->b.	Werden Sie sich für Volksabstimmungen einsetzen, in denen der Souverän über Verbleib in der EU oder Austritt aus der EU entscheiden soll? 
+Die fehlende Gewaltenteilung ist weniger das Hauptproblem als die fehlende demokratische Kontrolle:
+Ein "Rat", der nicht vom Volk abgesetzt werden kann und der Mehrheitsentscheidungen gegen die Menschen trifft,
+führt früher oder später zu den bekannten Problemen jedes undemokratischen Imperiums.
+
+>b.	Werden Sie sich für Volksabstimmungen einsetzen, in denen der Souverän über Verbleib in der EU oder Austritt aus der EU entscheiden soll?
+
+Ich werde dafür sorgen, dass Österreich Handlungsspielraum und Optionen hat.
+Wenn es einen Austritt aus der EU geben soll,
+müsste vorher ein klar definierter Plan B vorbereitet sein.
+Wenn beides, Verbleib in der EU und Plan B, genügend transparent dargelegt und öffentlich diskutiert wurden,
+macht eine Volksabstimmung Sinn.
 
 >c.	Sind Sie für eine Aufnahme der Ukraine in die EU ohne Volksabstimmung in Österreich?
+
+Nein.
 
 ### 19.	WHO
 
