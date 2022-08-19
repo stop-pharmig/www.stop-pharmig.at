@@ -19,7 +19,7 @@ hat mir am 17. August 2022 Fragen über Telegram geschickt, meine Antworten dara
 >1.) Guten Tag Hr. Dipl. Ing. Oliver Hoffmann. Sie sind einer der 23 Kanditaten zur Wahl des Bundespräsidenten 2022. Bitte plaudern Sie aus dem Nähkästchen. Welche Art von Mensch sind Sie und was macht Sie aus?
 
 Ich bin überzeugter Demokrat.
-Ich bin der Meinuung, dass sich eine gesunde Demokratie nicht dadurch auszeichnet,
+Ich bin der Meinung, dass sich eine gesunde Demokratie nicht dadurch auszeichnet,
 dass Experten und Berufspolitiker bestimmen, was passiert.
 Demokratie lebt vom politischen Engagement normaler Staatsbürger.
 Deswegen war ich immer wieder auf unterschiedliche Weise politisch tätig, wenn ich einen konkreten Bedarf gesehen habe, mich einzubringen.
