@@ -385,7 +385,7 @@ Das wäre wohl de facto äquivalent mit einem Austritt aus der EU. Also wieder s
 
 >f.	Sind Sie für den Austritt Österreichs aus der UNO?
 
-Ebenfalls siehe oben: Reden wir einmal, was stattdessen kommen soll und kann.
+Ebenfalls siehe oben: Reden wir einmal darüber, was stattdessen kommen soll und kann.
 
 ### 21.	Klimawandel
 
