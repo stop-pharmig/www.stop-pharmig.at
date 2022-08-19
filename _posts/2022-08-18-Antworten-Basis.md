@@ -395,7 +395,7 @@ In den vor allem von internationalen Organisationen und Medien betriebenen Kampa
 Aber während "globale Erwärmung" zwar auch ein sehr allgemeiner Begriff ist,
 der sehr unterschiedlich interpretiert werden kann,
 kann man bei "globaler Erwärmung" zumindest grundsätzlich annehmen,
-dass es ohne tatsächlich nachweisbare Erhöhung der Temperatur keine "globale Erwärmung" geben kann,
+dass es ohne tatsächlich nachweisbarer Erhöhung der Temperatur keine "globale Erwärmung" geben kann,
 während "Klimawandel" irgendwie alles heissen könnte.
 Wird das Klima wärmer? Überall? Oder nur an manchen Orten der Erde?
 Oder wird das Klima an manchen Orten wärmer und an anderen Orten kälter?
