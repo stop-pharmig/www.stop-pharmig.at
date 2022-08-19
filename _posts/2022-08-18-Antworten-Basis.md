@@ -13,7 +13,7 @@ pagenumbering: location=
 ---
 
 Der Vorstand der [Österreichischen Partei die Basis](https://www.diebasis-partei.at/)
-[![Die Basis](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1660797698/2022-08-18-Basis_zbsxb8.svg){:width="10%"}](https://www.diebasis-partei.at/)
+[![Die Basis](https://res.cloudinary.com/ontore/image/upload/c_scale,fl_any_format.sanitize,h_200,w_200/v1660797698/2022-08-18-Basis_zbsxb8.svg){:width="10%"}](https://www.diebasis-partei.at/) 
 hat mir am 17. August 2022 folgende email geschrieben:
 
 >Sehr geehrter Herr Hoffmann,
