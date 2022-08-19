@@ -251,13 +251,23 @@ Daher gehe ich mit gutem Beispiel voran und gebe keinerlei Auskunft zu meinem Pr
 
 >a.	Wie stehen Sie zu den Teuerungen in Österreich? Meinen Sie, dass die Bundesregierung genug tut, um die Bevölkerung zu entlasten?
 
+Die Teuerung ist großteils eine Folge der falschen Politik der Bundesregierung.
+Die aktuelle Bundesregierung tut nicht nur nicht genug, um die Bevölkerung zu entlasten,
+sie ist Teil des Problems und macht alles noch schlimmer.
+
 >b.	Wie stehen Sie zu den angeblichen Plänen, das Bargeld abzuschaffen? Werden Sie sich dafür einsetzen, dass es niemals dazu kommt?
 
+Ich werde sicherstellen, dass die Menschen in Österreich frei entscheiden können, ob sie weiter Bargeld nutzen wollen.
+
 ### 10.	GIS-Gebühr: Sind Sie für die Beibehaltung der GIS-Gebühr, so wie sie jetzt ist?
+
+Die GIS-Gebühr sollte freiwillig sein.
 
 ### 11.	Bundesheer: 
 
 >a.	Würden Sie eine Verteidigungsministerin bzw. einen Verteidigungsminister angeloben, die/der nicht den Grundwehrdienst abgeleistet hat?
+
+Nein.
 
 ## C) spezielle Fragen betreffend Außenpolitik
 
@@ -265,9 +275,17 @@ Daher gehe ich mit gutem Beispiel voran und gebe keinerlei Auskunft zu meinem Pr
 
 >a.	Werden Sie sich dafür einsetzen, dass die „Immerwährende Neutralität“ Österreichs immerwährend und vollumfänglich eingehalten und geschützt wird?
 
+Ja.
+
 >b.	Wie stehen Sie zu den Sanktionen Österreichs gegen Russland?
 
+Österreich sollte als neutrale Republik eine eigenständige Aussenpolitik betreiben und sich von den Vorgaben der NATO und der Europäischen Kommission lösen.
+
 ### 13.	LGBTQiA+: Wie stehen Sie zur neuen Geschlechtervielfalt?
+
+Ich bin ein toleranter und liberaler Mensch und respektiere die Weltsicht anderer Menschen.
+Aber ich erwarte mir auch, dass die anderen Menschen tolerant sind und respektieren,
+wenn jemand weiterhin davon ausgeht, dass es genau 2 Geschlechter gibt.
 
 ### 14.	Frühsexualisierung von Kindern: Wie stehen sie zu den Plänen der Gender-Lobby, bereits Kinder im Kindergartenalter und Volksschulalter von der Familie ungeschützt mit diesen Themen zu konfrontieren?
 
