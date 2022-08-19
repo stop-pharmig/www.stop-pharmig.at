@@ -421,7 +421,7 @@ ob eines der zahlreichen Computermodelle zu diversen möglichen Veränderungen d
 
 >c.	Glauben Sie, dass sich die Erde derzeit (die letzten 30 Jahre) insgesamt erwärmt?
 
-Was beduetet: "Die Erde erwärmt sich"?
+Was bedeutet: "Die Erde erwärmt sich"?
 Welche Temperatur hat die Erde genau jetzt?
 Die Erde ist eine Kugel, deren Inneres nach allgemeiner Auffassung bedeutend wärmer ist als ihre Oberfläche.
 Welche Temperatur ist also als Temperatur "der Erde" gemeint?
@@ -430,10 +430,10 @@ Die durchschnittliche Temperatur aller Teile der Erde?
 Wie wollen wir das messen?
 Ist die durchschnittliche Temperatur der Erdoberfläche gemeint?
 Wie können wir die Temperatur genügend vieler Punkte auf der Erdoberfläche genügend oft messen, um die tatsächliche Durchschnittstemperatur der gesamten Erdoberfläche laufend zu beobachten?
-Ich lebe in Wien und kann daher relativ gut beurteilen, wie sich die Temperaturen in Wien über die letzten 30 Jahre entwickelt haben.
+Ich lebe in Wien und kann daher relativ gut beurteilen, wie sich die Temperatur in Wien über die letzten 30 Jahre entwickelt hat.
 Das ist daher in diesem Fall kein "Glaube", sondern "Wissen".
-Ich weiss, dass die durchschnittlichen Temperaturen in Wien vor 20 Jahren gestiegen sind,
-aber die letzten 10 Jahre wieder sinken.
+Ich weiss, dass die durchschnittliche Temperatur in Wien vor 20 Jahren gestiegen ist,
+aber die letzten 10 Jahre wieder sinkt.
 
 >d.	Welche Maßnahmen empfinden Sie als die wichtigsten, um CO2 einzuschränken?
 
