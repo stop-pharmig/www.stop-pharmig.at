@@ -126,7 +126,7 @@ Ich bin generell etwas vorsichtiger bei der Übernahme von Bezeichnungen, die ei
 
 >9.) In Ihrem Profilbild auf Telegram sehe ich Neo von Matrix. I like. Technologie begeistert also? Was halten Sie von permanenter Kameraüberwachung in Großstädten. Go oder nogo?
 
-Sie nehmen Bezug auf mein privates Telegram-Konto, welches im Gegensatz zum speziell für die aktuelle Kandidatur eingerichteten Telegram-Konto auch wirklich privat bestehen bleiben soll. Privatspäre muss geschützt werden, daher ist natürlich permanente Kameraüberwachung abzulehnen.
+Sie nehmen Bezug auf mein privates Telegram-Konto, welches im Gegensatz zum speziell für die aktuelle Kandidatur eingerichteten Telegram-Kanal auch wirklich privat bestehen bleiben soll. Privatspäre muss geschützt werden, daher ist natürlich permanente Kameraüberwachung abzulehnen.
 
 >10.) Was halten Sie als Informatiker von Telegram? Ist doch ein netter Messenger? Ich frage nur, weil die Mainstream Medien so negativ darüber berichten.
 
