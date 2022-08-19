@@ -114,7 +114,7 @@ Es wird jedenfalls jemand sein, der oder die gezeigt hat, dass er oder sie ergeb
 >b.	Würden Sie einen Parteienvertreter mit der Regierungsbildung beauftragen, so wie es bisher gehandhabt wurde, und damit einen Bruch mit der Gewaltenteilung begehen?
 
 Ich werde sicher keine Parteienvertreter mit der Regierungsbildung beauftragen.
-Ich werde einen parteifreien Bundeskanzler angeloben, der mir dann - wie in der Verfassung vorgesehen - Minister vorschlägt. 
+Ich werde einen parteiunabhängigen Bundeskanzler angeloben, der mir dann - wie in der Verfassung vorgesehen - Minister vorschlägt. 
 
 ### 5.	Demokratie/Direkte Demokratie
 
