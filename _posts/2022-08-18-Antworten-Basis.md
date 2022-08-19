@@ -31,7 +31,7 @@ hat mir am 17. August 2022 folgende email geschrieben:
 >
 >Maria Huber, Verena König, Ruth Tscherne
 
-Im Folgenden meine Antworten (noch unvollständig, work in progress):
+Im Folgenden meine Antworten:
 
 # Fragen an die Bundespräsidentschaftskandidaten
 
