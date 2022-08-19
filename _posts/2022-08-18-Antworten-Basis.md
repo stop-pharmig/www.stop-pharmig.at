@@ -92,7 +92,7 @@ Ja.
 
 ### 4.	Gewaltenteilung
 
-Die aus gutem Grund in der Verfassung definierte Gewaltenteilung wurde über die letzten Jahrzehnte durch die personelle Verfilzung zwischen Parlament, Bundesregierung und Medien korrumptiert.
+Die aus gutem Grund in der Verfassung definierte Gewaltenteilung wurde über die letzten Jahrzehnte durch die personelle Verfilzung zwischen Parlament, Bundesregierung und Medien korrumpiert.
 Der Mangel an gelebter Gewaltenteilung und die aufgrund fehlender Gewaltenteilung praktisch nicht vorhandene Qualitätskontrolle ist die Hauptursache für die unerträglich schlechte Arbeit der Österreichischen Bundesregierung.
 Ich werde als Bundespräsident sicherstellen,
 dass die Bundesregierung personell und finanziell von Parlament und Medien getrennt wird,
