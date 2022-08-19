@@ -62,7 +62,7 @@ Die Menschen in Österreich haben zu Recht das Vertrauen in die Parteienpolitik 
 >b.	Wie kommen Sie darauf?
 
 Ich spreche viel mit sehr unterschiedlichen Menschen, sowohl über Internet als auch im direkten persönlichen Kontakt.
-Jede Woche wird die Anzahl der Menschen kleiner, die sich noch eine Verbesserung von Nationalratswahlen oder von Parteien im allgemeinen erwarten.
+Jede Woche wird die Anzahl der Menschen kleiner, die sich noch eine Verbesserung ihres und unseres Lebens über Nationalratswahlen oder durch Parteien im allgemeinen erwarten.
 Jede Woche wird die Anzahl der Menschen größer, die jemand anderen als die typischen Vertreter des Medien- und Politik-Establishment an der Macht sehen wollen.
 
 >c.	Was würden Sie Ihren Enkelkindern gerne sagen, was Sie für Österreich getan haben?
