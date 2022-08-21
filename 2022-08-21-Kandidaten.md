@@ -2,7 +2,7 @@
 title: Kandidaten
 subtitle: 
 permalink: BPW22Kandidaten.html
-layout: single
+layout: splash
 author: Oliver Hoffmann
 keywords: Österreich, 2022
 pdfa: true
