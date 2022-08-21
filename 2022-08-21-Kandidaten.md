@@ -1,7 +1,7 @@
 ---
 title: Kandidaten
 subtitle: 
-permalink: BPWKandidaten.html
+permalink: BPW22Kandidaten.html
 layout: single
 author: Oliver Hoffmann
 keywords: Österreich, 2022
