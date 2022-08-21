@@ -1,5 +1,5 @@
 ---
-title: 2. Telegram Diskussion auf FREIHEITbewegt Austria
+title: Zweite Telegram Diskussion auf FREIHEITbewegt Austria
 subtitle: 
 author: Oliver Hoffmann
 keywords: Österreich, 2022
@@ -11,7 +11,7 @@ linkcolor: red
 pagenumbering: location=
 ---
 
-2. Diskussion auf [FREIHEITbewegt Austria](https://t.me/AustrianFreedomConvoy) am 18. August 2022.
+Zweite Diskussion auf [FREIHEITbewegt Austria](https://t.me/AustrianFreedomConvoy) am 18. August 2022.
 
 <div>
 <iframe width="560"
