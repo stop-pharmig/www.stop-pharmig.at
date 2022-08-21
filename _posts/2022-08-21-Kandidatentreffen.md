@@ -12,7 +12,8 @@ pagenumbering: location=
 ---
 
 Brauchen Alternativkandidaten eine traditionelle Fernsehdiskussion?
-Diese Frage diskutieren wir über Zoom.
+Diese Frage diskutieren wir über Zoom,
+vielleicht auch mit Max Pucher.
 Wenn das sinnvoll erscheint, können wir unser Treffen auch aufnehmen,
 vielleicht reicht das ja als Information für die Wahlberechtigten.
 
