@@ -101,7 +101,7 @@ damit die in der Verfassung vorgesehen Gewaltenteilung herstellen und eine dem V
 >a.	Laut BVG beauftragt der BP einen Menschen seines Vertrauens mit der Regierungsbildung. Wen würden Sie mit der Regierungsbildung beauftragen?
 
 Ich werde unmittelbar nach meiner Wahl eine Stellenanzeige für die Position des Bundeskanzlers veröffentlichen und die Zeit zwischen Wahl und Angelobung für Bewerbungsgespräche mit potentiellen Bundeskanzlern nützen.
-Einen Entwurf der geplanten Stellenanzeige wird es vor der Wahl auf
+Einen [Entwurf der geplanten Stellenanzeige](/Stellenanzeige-BK) wird es vor der Wahl auf
 [demokratie.at](https://www.demokratie.at)
 geben.
 Die eigentlichen Bewerbungsgespräche werden öffentlich im Internet übertragen werden,
