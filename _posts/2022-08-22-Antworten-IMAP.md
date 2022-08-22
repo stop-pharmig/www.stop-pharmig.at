@@ -33,35 +33,32 @@ um schlechte Gesetze und Verordnungen loszuwerden.
 
 ### 2. Welchen Stellenwert hat Religionsfreiheit für Sie?
 
-Ich werde als Bundespräsident selbstverständliche die verfassungsmäßig garantierten Rechte auf freie Wahl der Religion,
+Ich werde als Bundespräsident selbstverständlich die in Verfassung und über Grund- und Freiheitsrechte garantierten Rechte auf freie Wahl der Religion,
 freie Entscheidung der Zugehörigkeit oder des Verlassens einer Religionsgemeinschaft
-und freie Religionsausübung respektieren.
+und freie Religionsausübung und das Recht auf Freiheit von Religion respektieren.
 
 ### 3. Welche Familienwerte sind für Sie wichtig?
 
 Trennung von Staat und Privatleben ist wichtig,
 deswegen will ich meine persönlichen Familienwerte nicht mit meinem politischen Angebot an die Wahlberechtigten vermischen.
-Aber als Bundespräsident werde ich über die Mitwirkung bei der Bildung der Bundesregierung und über die Mitwirkung bei der Erstellung des Regierungsprogramms bewirken,
-dass die derzeitige staatliche Willkür in Hinblick auf die Ungleichbehandlung von Personen und Gruppen im Umgang des Staates mit allen Formen des Familienlebens zurückgefahren wird.
+Aber als Bundespräsident werde ich über die Mitwirkung bei der Bildung der Bundesregierung und über die Mitwirkung bei der Erstellung des Regierungsprogramms bewirken, dass die derzeitige staatliche Willkür in Hinblick auf die Ungleichbehandlung von Personen und Gruppen im Umgang des Staates mit allen Formen des Familienlebens zurückgefahren wird.
 Das Menschenrecht auf Familienleben muss vom Staat umfassend und proaktiv geschützt werden,
 unabhängig von der juristischen Form der Familien und unabhängig von Geschlecht und Alter der einzelnen von staatlichen Maßnahmen betroffenen Familienmitglieder.
 
 ### 4. Wie werden Familien als wichtige Stütze des Staates durch Sie geschützt und gefördert werden?
 
-Indem ich die Bundesregierung anweise,
-die Auswirkungen aller staatlichen Maßnahmen auf Familien zu untersuchen und zu dokumentieren,
-indem ich Gesetze und Verordnungen,
-welche das Recht auf Familienleben gefährden könnten,
-schon im Vorfeld in einem breit und transparent geführten Dialog mit den betroffenen Gruppen kritisch untersuche
-und indem ich mich persönlich für familienfreundliche Initiativen einsetze.
+* Indem ich die Bundesregierung anweise, die Auswirkungen aller staatlichen Maßnahmen auf Familien zu untersuchen und zu dokumentieren
+* Indem ich Gesetze und Verordnungen, welche das Recht auf Familienleben gefährden könnten, schon im Vorfeld in einem breit und transparent geführten Dialog mit den betroffenen Gruppen kritisch untersuche
+* Indem ich mich persönlich für familienfreundliche Initiativen einsetze
 
 ### 5. Wie sollte Ihrer Meinung nach bei der Berichterstattung durch die Medien in Österreich verbessert werden?
 
 Ich werde die Verfilzung von Parlamentsparteien, Bundesregierung und klassischen Massenmmedien und die damit verbundene Korruption der Funktionsweise der Massenmedien beenden.
 Dazu werde ich eine Bundesregierung ohne Vertreter von Parlamentsparteien angeloben und diese Bundesregierung anweisen,
-jegliche bezahlten Regierungsinserate in Medien zu beenden,
-einen Regierungsentwurf zur Beendigung der staatlichen Presseförderung im Nationalrat einzubringen
-und die Kommunikation über die Massenmedien durch eine direkte und gleichberechtigte Kommunikation mit Menschen und jegliche Art von Medien über Internet zu ersetzen.
+* jegliche bezahlten Regierungsinserate in Medien zu beenden
+* einen Regierungsentwurf zur Beendigung der staatlichen Presseförderung im Nationalrat einzubringen
+* die Kommunikation über die Massenmedien durch eine direkte und gleichberechtigte Kommunikation mit Menschen und jegliche Art von Medien über Internet zu ersetzen
+
 Damit werden Massenmedien von der Rolle der regierungsfreundlichen Berichterstattung entbunden und können sich darauf konzentrieren,
 über die Realität zu berichten,
 während alternative Medien über den gleichberechtigten Zugang zu Information und die transparente Berücksichtigung von Anliegen im Entscheidungsprozess der Bundesregierung
