@@ -14,7 +14,7 @@ pagenumbering: location=
 
 Johann Brunnbauer, der Koordinator der Internationalen Medienvereinigung für Frieden ([International Media Association for Peace](https://www.upf.org/associations/imap)) Österreich  
 [![International Media Association for Peace](https://res.cloudinary.com/ontore/image/upload/v1661191583/2022-08-22-IMAP_udyhmd.svg){:width="10%"}](https://www.upf.org/associations/imap) 
-hat mir am 12. August 2022 Fragen über email geschickt, meine Antworten darauf:
+hat mir am 22. August 2022 Fragen über email geschickt, meine Antworten darauf:
 
 >Als Koordinator der Internationalen Medienvereinigung für Frieden (IMAP) Österreich bitte ich Sie einige Fragen klären um unsere Unterstützer, Journalisten befreundete NGO`s und Organisationen über die Standpunkte der Präsidentschaftskandidaten zu Medien, Menschenrechte und Religionsfreiheit und Familie zu informieren.
 >
