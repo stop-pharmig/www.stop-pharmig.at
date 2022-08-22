@@ -44,7 +44,7 @@ deswegen will ich meine persönlichen Familienwerte nicht mit meinem politischen
 Aber als Bundespräsident werde ich über die Mitwirkung bei der Bildung der Bundesregierung und über die Mitwirkung bei der Erstellung des Regierungsprogramms bewirken,
 dass die derzeitige staatliche Willkür in Hinblick auf die Ungleichbehandlung von Personen und Gruppen im Umgang des Staates mit allen Formen des Familienlebens zurückgefahren wird.
 Das Menschenrecht auf Familienleben muss vom Staat umfassend und proaktiv geschützt werden,
-unabhängig von der juristischen Form der Familien und unabhängig vom Geschlecht und Alter der einzelnen Familienmitglieder.
+unabhängig von der juristischen Form der Familien und unabhängig von Geschlecht und Alter der einzelnen von staatlichen Maßnahmen betroffenen Familienmitglieder.
 
 >4. Wie werden Familien als wichtige Stütze des Staates durch Sie geschützt und gefördert werden?
 
