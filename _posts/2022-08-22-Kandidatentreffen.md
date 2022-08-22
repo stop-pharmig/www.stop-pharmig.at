@@ -11,11 +11,7 @@ linkcolor: red
 pagenumbering: location=
 ---
 
-Brauchen Alternativkandidaten eine traditionelle Fernsehdiskussion?
-Diese Frage diskutieren wir über Zoom,
-vielleicht auch mit Max Pucher.
-Wenn das sinnvoll erscheint, können wir unser Treffen auch aufnehmen,
-vielleicht reicht das ja als Information für die Wahlberechtigten.
+Diskussion der alternativen Wahlwerber/innen bei der Wahl zum Österreichischen Bundespräsidenten über Zoom, diesmal mit Aufzeichnung einer inhaltlichen Diskussion über das konkrete Angebot der unterschiedlichen Wahlwerber/innen an die Wahlberechtigten.
 
 Datum: Dienstag, der 23. August 2022  
 Zeit: ab 19 Uhr  
