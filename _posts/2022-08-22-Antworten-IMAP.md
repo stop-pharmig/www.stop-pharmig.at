@@ -55,7 +55,7 @@ unabhängig von der juristischen Form der Familien und unabhängig von Geschlech
 
 Ich werde die Verfilzung von Parlamentsparteien, Bundesregierung und klassischen Massenmmedien und die damit verbundene Korruption der Funktionsweise der Massenmedien beenden.
 Dazu werde ich eine Bundesregierung ohne Vertreter von Parlamentsparteien angeloben und diese Bundesregierung anweisen,
-* jegliche bezahlten Regierungsinserate in Medien zu beenden
+* keinerlei bezahlte Regierungsinserate in Massenmedien zu beauftragen
 * einen Regierungsentwurf zur Beendigung der staatlichen Presseförderung im Nationalrat einzubringen
 * die Kommunikation über die Massenmedien durch eine direkte und gleichberechtigte Kommunikation mit Menschen und jegliche Art von Medien über Internet zu ersetzen
 
