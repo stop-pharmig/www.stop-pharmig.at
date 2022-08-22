@@ -73,7 +73,7 @@ muss die freie Verbreitung von Informationen in viel größerem Umfang als jetzt
 Ich werde als Bundespräsident sowohl über Anweisungen an die Bundesregierung als auch selbst aktiv Schritte zur Verbesserung der Meinungsfreiheit in die Wege leiten
 und über Präsidentschaftskanzlei und Bundesregierung mit gutem Beispiel vorangehen,
 indem sowohl einzelne Menschen als auch unabhängige Medien einen den traditionellen Medien vollkommen gleichwertigen Zugang zu Informationen erhalten.
-ich werde veranlassen, dass alle wesentlichen politischen Verhandlungen zwischen mir, der Bundesregierung, dem Parlament und den Landeshauptleuten live im Internet übrtragen werden
+Ich werde veranlassen, dass alle wesentlichen politischen Verhandlungen zwischen mir, der Bundesregierung, dem Parlament und den Landeshauptleuten live im Internet übrtragen werden
 und damit unabhängigen Medien,
 aber auch einzelnen Menschen,
 mehr Möglichkeit der Information und Partizipation bereitstellen.
