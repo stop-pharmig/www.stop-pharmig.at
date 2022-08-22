@@ -1,5 +1,5 @@
 ---
-title: Kandidatentreffen über Zoom
+title: Diskussion der alternativen Wahlwerber/innen über Zoom
 subtitle: 
 author: Oliver Hoffmann
 keywords: Österreich, 2022
@@ -17,7 +17,7 @@ vielleicht auch mit Max Pucher.
 Wenn das sinnvoll erscheint, können wir unser Treffen auch aufnehmen,
 vielleicht reicht das ja als Information für die Wahlberechtigten.
 
-Datum: 21. August 2022  
+Datum: Dienstag, der 23. August 2022  
 Zeit: ab 19 Uhr  
 Ort: [zoom](https://us05web.zoom.us/j/2363986464?pwd=UFdjUFRYMzljc3ZjNWkzZkg2RXIyQT09)  
 
