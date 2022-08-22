@@ -34,8 +34,8 @@ um schlechte Gesetze und Verordnungen loszuwerden.
 ### 2. Welchen Stellenwert hat Religionsfreiheit für Sie?
 
 Ich werde als Bundespräsident selbstverständlich die in Verfassung und über Grund- und Freiheitsrechte garantierten Rechte auf freie Wahl der Religion,
-freie Entscheidung der Zugehörigkeit oder des Verlassens einer Religionsgemeinschaft
-und freie Religionsausübung und das Recht auf Freiheit von Religion respektieren.
+freie Entscheidung der Zugehörigkeit zu oder des Verlassens einer Religionsgemeinschaft,
+freie Religionsausübung und das Recht auf Freiheit von Religion respektieren.
 
 ### 3. Welche Familienwerte sind für Sie wichtig?
 
