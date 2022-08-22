@@ -19,8 +19,8 @@ hat mir am 22. August 2022 Fragen über email geschickt, meine Antworten darauf:
 >Als Koordinator der Internationalen Medienvereinigung für Frieden (IMAP) Österreich bitte ich Sie einige Fragen klären um unsere Unterstützer, Journalisten befreundete NGO`s und Organisationen über die Standpunkte der Präsidentschaftskandidaten zu Medien, Menschenrechte und Religionsfreiheit und Familie zu informieren.
 >
 >Bitte um kurze Beantwortung folgender Fragen die speziell für IMAP Österreich wichtig sind:
->
->1. Wie werden Sie als Bundespräsident auf die Einhaltung der Menschenrechte achten?
+
+### 1. Wie werden Sie als Bundespräsident auf die Einhaltung der Menschenrechte achten?
 
 Ich werde alle Gesetze und Verordnungen vor meiner eventuellen Unterschrift auf ihre Verträglichkeit mit der Österreichischen Verfassung und allen Grund- und Freiheitsrechten überprüfen.
 Wenn es schwerwiegende Bedenken gibt, dass ein Gesetz oder eine Verordnung gegen Verfassung, ein Grundrecht oder ein Freiheitsrecht verstoßen könnte,
@@ -31,13 +31,13 @@ Wir werden das dann im Vorfeld klären und damit wird weitgehend sichergestellt,
 dass Gesetze und Verordnungen bessere Qualität haben und man nicht erst auf den Verfassungsgerichtshof warten muss,
 um schlechte Gesetze und Verordnungen loszuwerden.
 
->2. Welchen Stellenwert hat Religionsfreiheit für Sie?
+### 2. Welchen Stellenwert hat Religionsfreiheit für Sie?
 
 Ich werde als Bundespräsident selbstverständliche die verfassungsmäßig garantierten Rechte auf freie Wahl der Religion,
 freie Entscheidung der Zugehörigkeit oder des Verlassens einer Religionsgemeinschaft
 und freie Religionsausübung respektieren.
 
->3. Welche Familienwerte sind für Sie wichtig?
+### 3. Welche Familienwerte sind für Sie wichtig?
 
 Trennung von Staat und Privatleben ist wichtig,
 deswegen will ich meine persönlichen Familienwerte nicht mit meinem politischen Angebot an die Wahlberechtigten vermischen.
@@ -46,16 +46,16 @@ dass die derzeitige staatliche Willkür in Hinblick auf die Ungleichbehandlung v
 Das Menschenrecht auf Familienleben muss vom Staat umfassend und proaktiv geschützt werden,
 unabhängig von der juristischen Form der Familien und unabhängig von Geschlecht und Alter der einzelnen von staatlichen Maßnahmen betroffenen Familienmitglieder.
 
->4. Wie werden Familien als wichtige Stütze des Staates durch Sie geschützt und gefördert werden?
+### 4. Wie werden Familien als wichtige Stütze des Staates durch Sie geschützt und gefördert werden?
 
 Indem ich die Bundesregierung anweise,
-die Auswirkungen aller staatliche Maßnahmen auf Familien zu untersuchen und zu dokumentieren,
+die Auswirkungen aller staatlichen Maßnahmen auf Familien zu untersuchen und zu dokumentieren,
 indem ich Gesetze und Verordnungen,
 welche das Recht auf Familienleben gefährden könnten,
 schon im Vorfeld in einem breit und transparent geführten Dialog mit den betroffenen Gruppen kritisch untersuche
 und indem ich mich persönlich für familienfreundliche Initiativen einsetze.
 
->5. Wie sollte Ihrer Meinung nach bei der Berichterstattung durch die Medien in Österreich verbessert werden?
+### 5. Wie sollte Ihrer Meinung nach bei der Berichterstattung durch die Medien in Österreich verbessert werden?
 
 Ich werde die Verfilzung von Parlamentsparteien, Bundesregierung und klassischen Massenmmedien und die damit verbundene Korruption der Funktionsweise der Massenmedien beenden.
 Dazu werde ich eine Bundesregierung ohne Vertreter von Parlamentsparteien angeloben und diese Bundesregierung anweisen,
@@ -67,7 +67,7 @@ Damit werden Massenmedien von der Rolle der regierungsfreundlichen Berichterstat
 während alternative Medien über den gleichberechtigten Zugang zu Information und die transparente Berücksichtigung von Anliegen im Entscheidungsprozess der Bundesregierung
 an Stellenwert gewinnen.
 
->6. Was werden Sie als Bundespräsident tun um unabhängige Medien zu unterstützen?
+### 6. Was werden Sie als Bundespräsident tun um unabhängige Medien zu unterstützen?
 
 Der freie Zugang zu Information und die Meinungsfreiheit stellen die wesentlichste Grundlage der Demokratie dar,
 aber auch das charakteristische Merkmal einer jeden Republik.
