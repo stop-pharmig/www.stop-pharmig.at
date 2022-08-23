@@ -1,6 +1,6 @@
 ---
 permalink: /IMAP22/
-title: Antworten an International Media Association for Peace
+title: Antworten an die Internationale Medienvereinigung für Frieden
 subtitle: 
 author: Oliver Hoffmann
 keywords: Österreich, 2022
