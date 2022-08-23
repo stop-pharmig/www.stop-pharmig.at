@@ -41,7 +41,7 @@ Dann lesen Sie weiter:
 * Parteivorsitzende oder Abgeordnete von im Österreichischen Nationalrat, Bundesrat oder einem der Österreichischen Landtage vertretenen politischen Parteien
 * Personen, welche sich zum Zeitpunkt der Bewerbung in einem Angestelltenverhältnis mit der Republik Österreich oder einer im mehrheitlichen Besitz der Republik Österreich befindlichen Körperschaft befinden
 * Personen, welche in den 24 Monaten vor ihrer Bewerbung einen Vertrag zur Beratung der Österreichischen Bundesregierung oder eines der Klubs im Österreichischen Nationalrat abgeschlossen haben
-* Personen, welche sich in den 24 Monaten vor ihrer Bewerbung in einem Angestelltenverhältnis mit einer Internationalen Organisation oder der Europäischen Kommission befunden haben
+* Personen, welche sich in den 24 Monaten vor ihrer Bewerbung in einem Angestelltenverhältnis mit einem anderen Staat als der Republik Österreich, einer Internationalen Organisation oder der Europäischen Kommission befunden haben
 
 Abgesehen von oben angeführten Beschränkungen ist die Bewerbung für diese Position für alle Menschen offen.
 Wir diskriminieren nicht nach politischer Überzeugung, Parteimitgliedschaft, Religion, Ethnischer Zugehörigkeit, Hautfarbe, Geschlecht, geschlechtlicher Identität, sexueller Orientierung, Alter, medizinischer Vorgeschichte, Impfstatus oder Familienstatus.
