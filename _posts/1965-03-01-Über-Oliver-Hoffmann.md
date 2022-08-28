@@ -10,7 +10,7 @@ damals hat sich sonst kaum jemand für das Internet als Mittel zur Demokratisier
 In den Jahrzehnten davor und danach war ich immer wieder auf unterschiedliche Weise politisch tätig,
 wenn ich einen konkreten Bedarf gesehen habe, mich einzubringen.
 Mein Engagement war immer projektorientiert, mit einem konkreten Ziel und zeitlich befristet.
-Dazwischen habe ich mich immer wieder ins Privatleben zurückgezogen.
+Dazwischen habe ich mich immer wieder ins Privat- und Berufsleben zurückgezogen.
 Wenn die Projekte primär die Förderung der Demokratie in Österreich zum Ziel hatten,
 wurde ein wesentlicher Teil der Aktivität auf dieser Website abgebildet,
 wie zum Beispiel beim Antreten der Plattform Direkte Demokratie,
