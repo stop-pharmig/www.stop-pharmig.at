@@ -1,13 +1,22 @@
 ---
 permalink: ueber.html
-title: Über Oliver Hoffmann
+title: Über Oliver Hoffmann und diese Website
 ---
 
 Demokratie zeichnet sich nicht dadurch aus, dass Experten und Berufspolitiker bestimmen, was passiert.
 Demokratie lebt vom politischen Engagement normaler Staatsbürger.
-Ich war immer wieder auf unterschiedliche Weise politisch tätig, wenn ich einen konkreten Bedarf gesehen habe, mich einzubringen. Mein Engagement war immer projektorientiert, mit einem konkreten Ziel und zeitlich befristet.
+Ich habe die Adresse demokratie.at 1998 reserviert,
+damals hat sich sonst kaum jemand für das Internet als Mittel zur Demokratisierung interessiert.
+In den Jahrzehnten davor und danach war ich immer wieder auf unterschiedliche Weise politisch tätig,
+wenn ich einen konkreten Bedarf gesehen habe, mich einzubringen.
+Mein Engagement war immer projektorientiert, mit einem konkreten Ziel und zeitlich befristet.
 Dazwischen habe ich mich immer wieder ins Privatleben zurückgezogen.
-Im [Akademischen Gymnasium Wien](http://www.akg-wien.at) war ich ein Jahr lang Klassensprecher.
+Wenn die Projekte primär die Förderung der Demokratie in Österreich zum Ziel hatten,
+wurde ein wesentlicher Teil der Aktivität auf dieser Website abgebildet,
+wie zum Beispiel beim Antreten der Plattform Direkte Demokratie,
+die mittlerweile auf [demokratie-plattform.at](http://demokratie-plattform.at) übersiedelt ist.
+Aber viele politischen Projekte waren offline, insbesondere in der Zeit vor der allgemeinen Verfügbarkeit des Internet.
+Im [Akademischen Gymnasium Wien](http://www.akg-wien.at) habe ich meine ersten Erfahrung in Politik als Klassensprecher gemacht.
 Damals haben Schuldirektion und Lehrer Druck auf Schul- und Klassensprecher ausgeübt und meine Klassenkollegen hatten Angst vor Repressionen.
 Ich wollte meinen Beitrag dazu leisten, dass diese Art des Drucks abgebaut wird, was dann auch gelungen ist.
 Während des Studiums habe ich den öffentlich ausgetragenen Kampf der Informatiker um bessere Studienbedingungen an der [Technischen Universität Wien](https://www.tuwien.at) mit organisiert und wurde dann auch ein paar Mal in diverse Verhandlungen und Gremien als Studentenvertreter delegiert.
@@ -24,4 +33,5 @@ Aber kurz nach der Gründung wurde ich von einer Flut von Anfragen getrennter od
 Ein [einigermassen objektiv geschnittenes Interview](https://www.youtube.com/watch?v=qmAOp2Ek09U) zur damaligen inhaltlichen Ausrichtung gibt es noch immer auf Youtube.
 2010 hat sich die Männerpartei zusammen mit anderen Gruppierungen für direktdemokratiche Anliegen eingesetzt und ich habe als Spitzenkandidat der Plattform Direkte Demokratie (DEM) bei Wiener Regionalwahlen kandidiert.
 Nach meinem Rückzug wurde die Männerpartei 2013 von Hannes Hausbichler übernommen und ich habe mich bis 2021 nicht aktiv politisch betätigt, mit Ausnahme eher vermittelnder oder moderierender Funktionen wie in der [Diskussion über Männerpolitik der Liste Jetzt](https://www.youtube.com/watch?v=Pwv0kfLmTdc&list=PLU-RiHpaJLRxZJJi64uzaxsXrDDtJ0v35) und der immer wieder vorgebrachten Forderung nach [Einbau einer elektronischen Abstimmungsanlage im Nationalrat](https://demokratie21.at/podcast-hoffmann/).
-Ende Juli 2022 habe ich dann meine Absicht erklärt, bei der [Wahl zum Österreichischen Bundespräsidenten zu kandidieren](/hoffmann2022).
+Ende Juli 2022 habe ich dann meine Absicht erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
+eine Übersicht über mein Angebot an die Österreichischen Wahlberechtigten gibt es auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
