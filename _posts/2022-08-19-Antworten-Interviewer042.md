@@ -12,9 +12,7 @@ linkcolor: red
 pagenumbering: location=
 ---
 
-Der Telegram-Kanal [Der Interviewer - Jede Meinung ist gefragt!](https://t.me/interviewer042)
-[![Die Basis](https://res.cloudinary.com/ontore/image/upload/v1660924212/2022-08-19-Der-Interviewer_aukehf.jpg){:width="10%"}](https://t.me/interviewer042) 
-hat mir am 17. August 2022 Fragen über Telegram geschickt, meine Antworten darauf:
+Der Telegram-Kanal [Der Interviewer - Jede Meinung ist gefragt!](https://t.me/interviewer042) hat mir am 17. August 2022 Fragen über Telegram geschickt, meine Antworten darauf:
 
 >1.) Guten Tag Hr. Dipl. Ing. Oliver Hoffmann. Sie sind einer der 23 Kanditaten zur Wahl des Bundespräsidenten 2022. Bitte plaudern Sie aus dem Nähkästchen. Welche Art von Mensch sind Sie und was macht Sie aus?
 
