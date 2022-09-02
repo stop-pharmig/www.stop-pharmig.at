@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: ueber.html
 title: Über Oliver Hoffmann und diese Website
 ---
