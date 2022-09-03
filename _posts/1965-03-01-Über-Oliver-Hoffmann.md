@@ -3,6 +3,7 @@ layout: splash
 permalink: ueber.html
 title: Über Oliver Hoffmann und diese Website
 ---
+# Politischer Lebenslauf Oliver Hoffmann
 
 Demokratie zeichnet sich nicht dadurch aus, dass Experten und Berufspolitiker bestimmen, was passiert.
 Demokratie lebt vom politischen Engagement normaler Staatsbürger.
