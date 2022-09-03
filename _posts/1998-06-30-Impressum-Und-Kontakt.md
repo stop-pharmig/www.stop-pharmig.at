@@ -3,6 +3,7 @@ layout: splash
 title: Impressum
 permalink: impressum.html
 ---
+# Impressum
 
 Für den Inhalt verantwortlich:<br />
 Oliver Hoffmann<br />
