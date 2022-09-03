@@ -34,5 +34,6 @@ Aber kurz nach der Gründung wurde ich von einer Flut von Anfragen getrennter od
 Ein [einigermassen objektiv geschnittenes Interview](https://www.youtube.com/watch?v=qmAOp2Ek09U) zur damaligen inhaltlichen Ausrichtung gibt es noch immer auf Youtube.
 2010 hat sich die Männerpartei zusammen mit anderen Gruppierungen für direktdemokratiche Anliegen eingesetzt und ich habe als Spitzenkandidat der Plattform Direkte Demokratie (DEM) bei Wiener Regionalwahlen kandidiert.
 Nach meinem Rückzug wurde die Männerpartei 2013 von Hannes Hausbichler übernommen und ich habe mich bis 2021 nicht aktiv politisch betätigt, mit Ausnahme eher vermittelnder oder moderierender Funktionen wie in der [Diskussion über Männerpolitik der Liste Jetzt](https://www.youtube.com/watch?v=Pwv0kfLmTdc&list=PLU-RiHpaJLRxZJJi64uzaxsXrDDtJ0v35) und der immer wieder vorgebrachten Forderung nach [Einbau einer elektronischen Abstimmungsanlage im Nationalrat](https://demokratie21.at/podcast-hoffmann/).
-Ende Juli 2022 habe ich dann meine Absicht erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
-eine Übersicht über mein Angebot an die Österreichischen Wahlberechtigten gibt es auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
+Ende Juli 2022 habe ich meine Absicht erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
+siehe mein [Interview mit Max Pucher](https://my-tube.tv/videos/bundesprasidentenwahl-2022-interview-dipl-ing-oliver-hoffmann/)
+und die Übersicht über mein damaliges Angebot an die Österreichischen Wahlberechtigten auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
