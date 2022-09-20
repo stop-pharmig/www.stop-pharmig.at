@@ -33,7 +33,7 @@ Daher habe ich die [Männerpartei](https://www.maennerpartei.at) gegründet.
 Die Männerpartei war von mir inhaltlich tendenziell liberal aufgestellt, der Fokus war auf Gleichberechtigung für Männer in allen Lebensbereichen.
 Aber kurz nach der Gründung wurde ich von einer Flut von Anfragen getrennter oder in Trennung befindlicher Väter überschwemmt, dadurch war die Partei dann fast nur in diesem Themenbereich aktiv.
 Ein [einigermassen objektiv geschnittenes Interview](https://www.youtube.com/watch?v=qmAOp2Ek09U) zur damaligen inhaltlichen Ausrichtung gibt es noch immer auf Youtube.
-2010 hat sich die Männerpartei zusammen mit anderen Gruppierungen für direktdemokratiche Anliegen eingesetzt und ich habe als Spitzenkandidat der Plattform Direkte Demokratie (DEM) bei Wiener Regionalwahlen kandidiert.
+2010 hat sich die Männerpartei zusammen mit anderen Gruppierungen für direktdemokratische Anliegen eingesetzt und ich habe als Spitzenkandidat der Plattform Direkte Demokratie (DEM) bei Wiener Regionalwahlen kandidiert.
 Nach meinem Rückzug wurde die Männerpartei 2013 von Hannes Hausbichler übernommen und ich habe mich bis 2021 nicht aktiv politisch betätigt, mit Ausnahme eher vermittelnder oder moderierender Funktionen wie in der [Diskussion über Männerpolitik der Liste Jetzt](https://www.youtube.com/watch?v=Pwv0kfLmTdc&list=PLU-RiHpaJLRxZJJi64uzaxsXrDDtJ0v35) und der immer wieder vorgebrachten Forderung nach [Einbau einer elektronischen Abstimmungsanlage im Nationalrat](https://demokratie21.at/podcast-hoffmann/).
 Auf den Auswuchs staatlicher Willkür in Covid-Zeiten habe ich zuerst mit dem Versuch reagiert,
 "meinen" Volksvertretern im Österreichischen Parlament klar zu machen,
