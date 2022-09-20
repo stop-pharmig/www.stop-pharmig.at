@@ -35,6 +35,17 @@ Aber kurz nach der Gründung wurde ich von einer Flut von Anfragen getrennter od
 Ein [einigermassen objektiv geschnittenes Interview](https://www.youtube.com/watch?v=qmAOp2Ek09U) zur damaligen inhaltlichen Ausrichtung gibt es noch immer auf Youtube.
 2010 hat sich die Männerpartei zusammen mit anderen Gruppierungen für direktdemokratiche Anliegen eingesetzt und ich habe als Spitzenkandidat der Plattform Direkte Demokratie (DEM) bei Wiener Regionalwahlen kandidiert.
 Nach meinem Rückzug wurde die Männerpartei 2013 von Hannes Hausbichler übernommen und ich habe mich bis 2021 nicht aktiv politisch betätigt, mit Ausnahme eher vermittelnder oder moderierender Funktionen wie in der [Diskussion über Männerpolitik der Liste Jetzt](https://www.youtube.com/watch?v=Pwv0kfLmTdc&list=PLU-RiHpaJLRxZJJi64uzaxsXrDDtJ0v35) und der immer wieder vorgebrachten Forderung nach [Einbau einer elektronischen Abstimmungsanlage im Nationalrat](https://demokratie21.at/podcast-hoffmann/).
-Ende Juli 2022 habe ich meine Absicht erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
+Auf den Auswuchs staatlicher Willkür in Covid-Zeiten habe ich zuerst mit dem Versuch reagiert,
+"meinen" Volksvertretern im Österreichischen Parlament klar zu machen,
+wie unlogisch und gleichzeitig gefährlich die Argumentation für die diversen mit Covid begründeten Maßnahmen von Anfang an war.
+Meine [offizielle Stellungnahme zum "Impfpflichtgesetz" vor der Behandlung im Nationalrat](/Stellungnahme-zu-COVID-19-IG)
+hat dann in der Feststellung kulminiert:
+"Jeder einzelne Abgeordnete, der gegen dieses Gesetz stimmt, wird ein Hinweis darauf sein, dass der Österreichische Nationalrat überhaupt noch seine Funktion als Volksvertretung wahrnehmen kann oder soll."
+Leider haben die Abgeordneten in ihrer überwiegenden Mehrheit dann sehr deutlich gemacht,
+dass dieses Parlament seine Funktion als Volksvertretung nicht wahrnimmt und ein Dialog mit diesen Abgeordneten daher nutzlos ist.
+In der Folge habe ich mich der Widerstandsbewegung gegen dieses Regime angeschlossen und zusammen mit verstreuten Dissidenten
+[Grundsätze und Ziele für die Österreichische Bürgerrechtsbewegung](/Buergerrechtsbewegung) formuliert.
+Ende Juli 2022 habe ich dann meine Absicht erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
+mit dem erklärten Ziel, eine Bundesregierung ohne jegliche Vertreter der aktuellen Parlamentsparteien anzugeloben,
 siehe mein [Interview mit Max Pucher](https://my-tube.tv/videos/bundesprasidentenwahl-2022-interview-dipl-ing-oliver-hoffmann/)
 und die Übersicht über mein damaliges Angebot an die Österreichischen Wahlberechtigten auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
