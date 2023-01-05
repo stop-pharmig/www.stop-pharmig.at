@@ -1,4 +1,5 @@
 ---
+layout: single
 author_profile: false
 title: "Helga Tieben darf nicht die Leitung der Medizinmarktaufsicht übernehmen"
 ---
