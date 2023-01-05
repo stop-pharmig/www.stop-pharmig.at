@@ -15,7 +15,7 @@ url                      : "https://stop-pharmig.at"
 baseurl                  : "/"
 #logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646302508/2022-03-03-demokratie.at-logo_oh4eqe.png"
 #logo                     : https://res.cloudinary.com/ontore/image/upload/c_scale,f_auto,fl_any_format,q_auto,w_250/v1658300883/2022-07-20-Oliver-Hoffmann-scaled_wofrlf.png
-logo                      : /assets/images/2022-07-20-Oliver-Hoffmann-scaled.png
+logo                      : /assets/images/2022-02-21-Stop-Pharmig-Logo_qdejty.png
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : ""
 breadcrumbs              : false
