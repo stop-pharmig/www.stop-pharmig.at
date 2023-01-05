@@ -2,7 +2,6 @@
 author_profile: false
 title: "Helga Tieben darf nicht die Leitung der Medizinmarktaufsicht übernehmen"
 ---
-
 ![](https://res.cloudinary.com/ontore/image/upload/v1645377546/2022-02-20-Helga-Tieben_vz8edi.png)
 
 Helga Tieben - 17 Jahre in der [pharmig](https://www.pharmig.at) - darf nicht die Leitung der [Medizinmarktaufsicht](https://www.ages.at/ages/bereiche/medizinmarktaufsicht) übernehmen
@@ -28,4 +27,3 @@ Helga Tieben - 17 Jahre in der [pharmig](https://www.pharmig.at) - darf nicht di
 3. Zum Wohle und der Gesundheit der österreichischen Bürger
 4. Geprüft mit unabhängigen Studien
 5. Ohne Einmischung der Pharma-Lobby
-
