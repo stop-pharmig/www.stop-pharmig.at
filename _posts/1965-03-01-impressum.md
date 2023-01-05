@@ -6,7 +6,7 @@ permalink: impressum.html
 # Impressum
 
 Für den Inhalt verantwortlich:<br />
-[Oliver Hoffmann](/ueber)<br />
+Oliver Hoffmann<br />
 Karolinengasse 31<br />
 1040 Wien<br />
 Österreich<br />
